@@ -1,0 +1,418 @@
+<!DOCTYPE html><html
+lang="en-US" prefix="og: http://ogp.me/ns#"><head><link
+rel="stylesheet" type="text/css" href="https://jasonleow.sg/wp-content/cache/minify/88bc4.css" media="all" /><meta
+charset="UTF-8"><meta
+name="viewport" content="width=device-width, initial-scale=1"><link
+rel="profile" href="http://gmpg.org/xfn/11"><link
+rel="pingback" href="https://jasonleow.sg/xmlrpc.php"><title>Creating a productized service in 3 days - jason</title><link
+rel="canonical" href="https://jasonleow.sg/621/creating-productized-service-3-days/" /><meta
+property="og:locale" content="en_US" /><meta
+property="og:type" content="article" /><meta
+property="og:title" content="Creating a productized service in 3 days - jason" /><meta
+property="og:description" content="BACKSTORY I’m tired of myself talking about making products but never. It’s always been my dream to make products that serve the public good and create positive social impact. It’s my passion and purpose to create a personally meaningful body of work at the intersection of design, social/public issues and entrepreneurship. So I’m committing to &hellip;" /><meta
+property="og:url" content="https://jasonleow.sg/621/creating-productized-service-3-days/" /><meta
+property="og:site_name" content="jason" /><meta
+property="article:tag" content="1mvp1month" /><meta
+property="article:tag" content="design" /><meta
+property="article:tag" content="illustration" /><meta
+property="article:tag" content="productized service" /><meta
+property="article:tag" content="storyboarding" /><meta
+property="article:section" content="Design" /><meta
+property="article:published_time" content="2018-08-01T16:44:09+08:00" /><meta
+property="article:modified_time" content="2018-09-12T18:02:46+08:00" /><meta
+property="og:updated_time" content="2018-09-12T18:02:46+08:00" /><meta
+property="og:image" content="https://jasonleow.sg/wp-content/uploads/2018/08/for-blog-post.jpg" /><meta
+property="og:image:width" content="1500" /><meta
+property="og:image:height" content="787" /><link
+rel='dns-prefetch' href='//s0.wp.com' /><link
+rel='dns-prefetch' href='//secure.gravatar.com' /><link
+rel='dns-prefetch' href='//fonts.googleapis.com' /><link
+rel='dns-prefetch' href='//s.w.org' /><link
+rel="alternate" type="application/rss+xml" title="jason &raquo; Feed" href="https://jasonleow.sg/feed/" /><link
+rel="alternate" type="application/rss+xml" title="jason &raquo; Comments Feed" href="https://jasonleow.sg/comments/feed/" /><link
+rel="alternate" type="application/rss+xml" title="jason &raquo; Creating a productized service in 3 days Comments Feed" href="https://jasonleow.sg/621/creating-productized-service-3-days/feed/" /> <script type="text/javascript">/*<![CDATA[*/window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/jasonleow.sg\/wp-includes\/js\/wp-emoji-release.min.js?ver=e14bdd0cd7d8941c17be4cc3b70aef3b"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);/*]]>*/</script> <style type="text/css">img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}</style><link
+rel='stylesheet' id='blink-google-fonts-css'  href='//fonts.googleapis.com/css?family=Montserrat%3Aregular%2C700%7CPT+Serif%3Aregular%2Citalic%2C700%26subset%3Dlatin%2Clatin&#038;ver=1.0.2' type='text/css' media='all' /> <script type="text/javascript">(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+	__gaTracker('create', 'UA-58446552-1', 'auto');
+	__gaTracker('set', 'forceSSL', true);
+	__gaTracker('require', 'displayfeatures');
+	__gaTracker('send','pageview');</script>  <script type="text/javascript" src="https://jasonleow.sg/wp-content/cache/minify/ef6c2.js"></script> <link
+rel='https://api.w.org/' href='https://jasonleow.sg/wp-json/' /><link
+rel="EditURI" type="application/rsd+xml" title="RSD" href="https://jasonleow.sg/xmlrpc.php?rsd" /><link
+rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://jasonleow.sg/wp-includes/wlwmanifest.xml" /><link
+rel='shortlink' href='https://wp.me/p5AqMO-a1' /><link
+rel="alternate" type="application/json+oembed" href="https://jasonleow.sg/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fjasonleow.sg%2F621%2Fcreating-productized-service-3-days%2F" /><link
+rel="alternate" type="text/xml+oembed" href="https://jasonleow.sg/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fjasonleow.sg%2F621%2Fcreating-productized-service-3-days%2F&#038;format=xml" /> <script type="text/javascript">/*<![CDATA[*/(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//jasonleow.sg/?wordfence_logHuman=1&hid=533D2A68952823A1DC5CD8D22DF04C1B');/*]]>*/</script> <link
+rel='dns-prefetch' href='//v0.wordpress.com'><style type='text/css'>img#wpstats{display:none}</style><style type="text/css" id="blink-custom-css">.post-621 .post-grid{background-image:url(https://jasonleow.sg/wp-content/uploads/2018/08/for-blog-post.jpg);}body.mce-content-body,.page-links span:not(.page-numbers),.block-title span:not(.page-numbers),.archive-title span:not(.page-numbers),.comments-area > .comment-respond .comment-reply-title span:not(.page-numbers){background-color:#ffffff;}.color-accent-text,a,#infinite-handle:hover span{color:#3dc9d8;}body,button,.button,input,select,textarea{color:#000000;}</style><link
+rel="icon" href="https://jasonleow.sg/wp-content/uploads/2015/01/site-logo-v2-512px-54b7d2fav1_site_icon-32x32.png" sizes="32x32" /><link
+rel="icon" href="https://jasonleow.sg/wp-content/uploads/2015/01/site-logo-v2-512px-54b7d2fav1_site_icon-256x256.png" sizes="192x192" /><link
+rel="apple-touch-icon-precomposed" href="https://jasonleow.sg/wp-content/uploads/2015/01/site-logo-v2-512px-54b7d2fav1_site_icon-256x256.png" /><meta
+name="msapplication-TileImage" content="https://jasonleow.sg/wp-content/uploads/2015/01/site-logo-v2-512px-54b7d2fav1_site_icon.png" /><style type="text/css" id="wp-custom-css">/*
+Welcome to Custom CSS!
+
+CSS (Cascading Style Sheets) is a kind of code that tells the browser how
+to render a web page. You may delete these comments and get started with
+your customizations.
+
+By default, your stylesheet will be loaded after the theme stylesheets,
+which means that your rules can take precedence and override the theme CSS
+rules. Just write here what you want to change, you don't need to copy all
+your theme's stylesheet content.
+*/
+.entry-footer .comments-link {
+	display: none;
+}
+
+.site {
+	display: block !important;
+}
+
+/*
+.page-cover .entry-footer {
+	display: none;
+}
+*/</style></head><body
+class="post-template-default single single-post postid-621 single-format-standard stagtools"><div
+id="page" class="hfeed site">
+<a
+class="skip-link screen-reader-text" href="#content">Skip to content</a><header
+id="masthead" class="site-header" role="banner"><div
+class="inner-block"><div
+class="site-branding"><h1 class="site-title">
+<a
+href="https://jasonleow.sg/" rel="home">
+jason							</a></h1>
+<span
+class="site-description">
+design ✏️ + public good &#x1f3db; + indie maker &#x1f680; + mindfulness ⛩						</span></div><button
+id="menu-toggle" class="menu-toggle">
+<span
+class="menu-toggle__label">Menu</span>
+<span
+class="genericon genericon-menu"></span>
+</button><nav
+id="site-navigation" class="main-navigation" role="navigation"><ul
+id="menu-menu-1" class="primary-menu"><li
+id="menu-item-10" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-10"><a
+href="https://jasonleow.sg/">Home</a></li><li
+id="menu-item-11" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11"><a
+href="https://jasonleow.sg/bio/">Bio</a></li><li
+id="menu-item-125" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-125"><a
+href="https://jasonleow.sg/category/portfolio/">My work</a></li><li
+id="menu-item-30" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30"><a
+href="https://jasonleow.sg/contact/">Contact</a></li></ul>			</nav></div>
+</header><div
+id="content" class="site-content"><div
+id="primary" class="content-area">
+<main
+id="main" class="site-main" role="main">
+<article
+id="post-621" class="post-621 post type-post status-publish format-standard has-post-thumbnail hentry category-design category-portfolio category-startups tag-1mvp1month tag-design tag-illustration tag-productized-service tag-storyboarding">
+<section
+class="post-cover post-grid"><div
+class="overlay"></div><div
+class="post-cover-inside"><div
+class="text-container post-cover-content">
+<header
+class="entry-header"><h1 class="entry-title"><span
+class="entry-title-primary">Creating a productized service in 3 days</span> <span
+class="entry-subtitle">My 5th MVP for #1mvp1month - UX Storyboard</span></h1>			</header><footer
+class="entry-footer">
+<span
+class="posted-on">Published <a
+href="https://jasonleow.sg/621/creating-productized-service-3-days/" rel="bookmark"><time
+class="entry-date published" datetime="2018-08-01T16:44:09+00:00">1 August 2018</time><time
+class="updated" datetime="2018-09-12T18:02:46+00:00">12 September 2018</time></a></span><span
+class="byline"> by <span
+class="author vcard"><a
+class="url fn n" href="https://jasonleow.sg/author/jason/">Jason</a></span></span>
+<span
+class="cat-links">in <a
+href="https://jasonleow.sg/category/design/" rel="category tag">Design</a>, <a
+href="https://jasonleow.sg/category/portfolio/" rel="category tag">Portfolio</a>, <a
+href="https://jasonleow.sg/category/startups/" rel="category tag">Startups</a></span><div><span
+class="comments-link"><a
+href="https://jasonleow.sg/621/creating-productized-service-3-days/#comments">2 Comments</a></span></div>			</footer></div></div>
+</section><div
+class="entry-content"><h3>BACKSTORY</h3><p>I’m tired of myself talking about making products but never. It’s always been my dream to make products that serve the public good and create positive social impact. It’s my passion and purpose to create a personally meaningful body of work at the intersection of design, social/public issues and entrepreneurship. So I’m committing to make <a
+href="https://jasonleow.sg/310/1mvp1month/" target="_blank" rel="noopener noreferrer">1 minimum viable product per month</a>, starting Feb 2018. I’ll keep going till I run out of ideas or money, or something takes off in a huge way that requires all my time, or exhaustion kicks in. Whichever comes first. <a
+href="https://twitter.com/search?f=tweets&amp;q=%231mvp1month&amp;src=typd" target="_blank" rel="noopener noreferrer"><strong>#1mvp1month</strong></a></p><p>For my 5th MVP, I&#8217;m launching a productized service called <a
+href="https://uxstoryboard.com/" target="_blank" rel="noopener noreferrer">UX Storyboard</a> that helps creative professionals tell better stories of their products and services through storyboarding and illustrations. Think Pixar animation sketches, but not for a movie but for scenes of how a product/service will be used. This is something I use all the time in my design consultancy work, hence you can say this is really scratching my own itch. This is also my first MVP that&#8217;s not focused on the public good (read my previous recap <a
+href="https://jasonleow.sg/601/recap-reflect-refresh/" target="_blank" rel="noopener noreferrer">post</a> on my too-serious *ahem boring* projects and lack of monetizable ideas).</p><p><em>(Click <a
+href="#howtoproductizedservice">here</a> if you&#8217;re an indie maker/entrepreneur and want to skip straight to the how-to section on making the productized service)</em></p><p>&nbsp;</p><h3>WHAT&#8217;S THE PROBLEM &amp; OPPORTUNITY?</h3><p>Why make UX Storyboard? What painpoints am I addressing?</p><p>This is already something that I use on a semi-regular basis for my own design consultancy work, so I&#8217;m definitely scratching my own itch in a way. I know bigger agencies probably have their own in-house visual designer or illustrators on hand, so this probably isn&#8217;t for them. When I made this, I pictured this would be really useful for smaller agencies, leaner teams or even freelancers who might need some help while juggling the demands of a consultancy project. Key need here is lack of time. The designer might not have time to sketch the storyboard himself, or has some crazy timeline (&#8220;We needed that yesterday&#8221;). Other times, it can be about wanting to add something more wow into a final deliverable to the client (like a report deck, publications, research findings, etc). I had also folks tell me they had used the storyboards to as a prototype of a new service or experience, showing it to users for feedback.</p><p>Another key need is to impress and persuade. Entrepreneurs or anyone with a big pitch to investors coming up could benefit from better storytelling of their new product. Or it could simply be someone from an in-house innovation team who&#8217;s trying to convince their management to implement a new idea. In short, a persuasion tool. By visualizing and making tangible the story behind the product, it creates more visceral punch, as well as persuading, convincing, and assuring your audience.</p><p><em>What then is the difference between UX Storyboard and just hiring a freelance illustrator?</em></p><p>It&#8217;s a fair point. And it&#8217;s probably waaay cheaper too to find someone on Fiverr or Upwork, so why bother with me?! I think one of the main complaints from buyers from such platforms is that it can be difficult to find talented freelancers who can deliver quality work on time and on budget, especially from having to search through hundreds of possible candidates. Trust is a big concern. Investing time and effort to communicate your concepts is an additional burden when working with talents who might not be fluent in your language. So what UX Storyboard aims to do is that we do all that for the customer, so that they don&#8217;t have to. I curate a list of good talent to work with, and I managed all the backend coordination. And because I&#8217;m also a designer and a user of said service, that (I hope!) makes for more street cred.</p><p>So providing assurance is another key user need here. That&#8217;s where a productized service really shines through. A clearly defined scope of work, specific process and pre-determined cost allows customers to  know how much they need to pay, what will happen, and what deliverables they will get at the end. It&#8217;s a lot more assuring that you&#8217;re paying a fixed price for an outcome that you can see, instead of having to pay for a freelancer&#8217;s hourly/day rates and not sure if how long they will take and thus how much it will end up costing.</p><p>On the inventory/supply side, I&#8217;m also hoping this can scale and eventually become a source of regular income for my partner illustrators. With a base network of agencies that provide regular work, they can focus on their craft instead of having to individually hustle, market and do (aka dread) business development.</p><p>&nbsp;</p><h3>Wait, wHAT&#8217;S A PRODUCTIZED SERVICE again?</h3><p>When a product has babies with a service.&#x1f602;</p><p>Productized services are a bit of the underdog in the startup world. Much of media attention is on how software is eating the world. Services are seen as something that&#8217;s hard to scale given the unique needs/nature of each customer. Productized services are like a good in-between &#8211; pre-packaged services that says it will do a specific X within Y amount of time, at Z price. Which then allows the productized service owner to be able to scale a lot more easily than charging billable hours.</p><blockquote><p>A productized service thrives when it’s tightly focused on delivering one specific service exceptionally well. It also adds value in unique ways that neither a piece of software nor a freelancer is able to provide. &#8211; Brian Casel on <a
+href="https://productizeandscale.com/why-productized-service/" target="_blank" rel="noopener noreferrer">Why Build a Productized Service (Instead of Software)?</a></p></blockquote><p>One of my idols in productized service space is <a
+href="https://uibreakfast.com/productized-guide/" target="_blank" rel="noopener noreferrer">Jane Portman</a>, who also runs a design consultancy. She as the one who led me to think about a different way to run my design consultancy when I was thinking about starting my own. In this <a
+href="https://www.forbes.com/sites/tomaslaurinavicius/2016/05/26/productized-consulting-jane-portman/1#1ea8b2a91a3f" target="_blank" rel="noopener noreferrer">article</a>, she talks about how productized services are &#8220;attractive because they instantly defeat most of typical client objections. People are scared to hire freelancers for a number of reasons: unclear scope, no understanding of the budget (even when the hourly rate is a known), no confidence in the person they’re hiring. With productized consulting, all these things are clearly set. Clients know how much they’ll pay, what exactly will happen and why, and what deliverables they’ll get. Plus, they see reassuring value-based copy and testimonials.&#8221;</p><p>I also liked this part where she mentioned one of the main painpoints that consultants and freelancers face &#8211; writing proposals with nothing to show for, and the bottleneck of selling your own time:</p><blockquote><p>Consultants and freelancers also reap multiple benefits. Now you can skip the proposals, streamline your best offerings and get rewarded for faster implementation. With hourly billing, less time means less money. With productized consulting, less time means more effective work and higher income. &#8211; Jane Portman</p></blockquote><p>And this concept is not limited to a few types of businesses. You can productize a great MANY MANY services in real life. See a list of 50 <a
+href="https://richardpatey.com/productized-services-script/" target="_blank" rel="noopener noreferrer">here</a>. And it can scale pretty well too. An entrepreneur on <a
+href="https://www.indiehackers.com/@Vinrob/2dd421799b" target="_blank" rel="noopener noreferrer">Indie Hackers</a> managed to grow his design-as-a-service startup to $15k revenue per month! &#x1f632;&#x1f60d;</p><p>A bit of background: actually, UX Storyboard isn&#8217;t my first productized service startup. I made 2 productized services before. My very first one was <a
+href="http://outsprint.io" target="_blank" rel="noopener noreferrer">Outsprint</a>, done way back in 2015. It was my very first attempt at evolving the design consultancy model which I felt was broken (after having been on both sides as a consultant and as a customer). Outsprint offered the one-week design sprint as a default package, not a 3-6 month engagement at half a million dollars with overwhelming number of users to research on and hundreds of stakeholders to engage. To the client, that&#8217;s way too much commitment and resources needed. The barrier to entry was set pretty high for hiring a design consultant &#8211; price point, required commitment. Outsprint hoped to change that.</p><p>The second one was a user recruitment service for designers/design researchers called <a
+href="https://goodchatco.carrd.co/" target="_blank" rel="noopener noreferrer">Good Chat Co</a>, which I started with a friend last year in 2017. That one worked great too, even though I pulled out of it after a year because I realized recruitment work wan&#8217;t something I enjoyed tremendously. Despite that, there&#8217;s still been a continual stream of customers even till now.</p><p>So starting and sustaining productized services isn&#8217;t new to me. I like how I&#8217;m kinda going back to my roots as a service designer too with UX Stoyboard, building on my existing strengths in a space where I am most comfortable.</p><p>So to sum up, the benefits of a productized service:</p><p><section
+class="stag-section stag-columns"><div
+class="stag-column stag-one-fourth">Pre-validated idea</div> </section><section
+class="stag-section stag-columns"><div
+class="stag-column stag-three-fourth stag-column-last">I already use it. Many designers, consultancy agencies already use it too. People are willing to pay for such a solution.</div><div
+class="clear"></div> </section></p><p><section
+class="stag-section stag-columns"><div
+class="stag-column stag-one-fourth">Recurring jobs, recurring income</div> </section><section
+class="stag-section stag-columns"><div
+class="stag-column stag-three-fourth stag-column-last">Most service designers, consultants, in-house innovators and product makers need it on a semi-regular basis. Consultants and freelancers can then skip endless back and forth proposals and instead be assured of more regular gigs. A clearer value proposition by being productized also leads to more opportunities.</div><div
+class="clear"></div> </section></p><p><section
+class="stag-section stag-columns"><div
+class="stag-column stag-one-fourth">Efficiency leads to scalability</div> </section><section
+class="stag-section stag-columns"><div
+class="stag-column stag-three-fourth stag-column-last">There&#8217;s economies of scale to be reaped from specialization. Productizing the services also means efficiencies from systematizing processes and workflows, and the opportunity to delegate tasks to hired staff who you can bring on to your productized service. Because you just do one thing exceptionally well, you can scale it in ways a billable-by-hour consultancy cannot.</div><div
+class="clear"></div> </section></p><p><section
+class="stag-section stag-columns"><div
+class="stag-column stag-one-fourth">Low barrier to entry</div> </section><section
+class="stag-section stag-columns"><div
+class="stag-column stag-three-fourth stag-column-last">Service startups have very low barrier to entry because there&#8217;s little upfront investment needed in hardware or development. A friend commented that this was a bit like dropshipping in the ecommerce space, only that this was a service, not ecommerce products. That&#8217;s not far from the truth, but I hope to add more value as the middleman instead of just pushing transactions.</div><div
+class="clear"></div> </section></p><p>&nbsp;</p>
+<span
+id="howtoproductizedservice" class="sta-anchor " aria-hidden="true"></span><h3>MAKING THE PRODUCTIZED SERVICE</h3><p>Because I was busy with other consulting work this month, I had only THREE days to make it. What a great way to learn to scrap together things haha. Adding artificial constraints are ways to test one&#8217;s skills, and re-look at current work flows to see if this can be simplified.</p><p>The service experience goes something like this:</p><p>Customer chooses package ⏩ goes to online form ⏩ fills in relevant info needed for the storyboard ⏩ gets an email from me for clarification (if needed) and for payment ⏩ pays ⏩ gets first version via email or cloud drive ⏩ sends back for revisions for max of 3 revisions ⏩ happy customer.</p><p>I usually would have preferred to create a complete end-to-end service, but due to the constraints, I realized that all I needed was a landing page to show what the service was about, how much it costs, and a way for them to contact me and send me information about what they want. I didn&#8217;t need to create a payment gateway. It&#8217;s something I can do later, when there&#8217;s actually a paying customer. Learning from previous MVPs, unless you get actual paying customers, putting in lots of effort to create a payment gateway is just a pointless exercise. In the back of my mind, I know I can hack together a payment solution via Paypal.me, Woocommerce or Transferwise when the need arises.</p><p><figure
+class="stag-section stag-image stag-image--no-filter stag-image--left"><img
+src="https://jasonleow.sg/wp-content/uploads/2018/08/for-blog-post.jpg" alt=""></figure> I always wanted to use the beautiful illustrations from <a
+href="https://undraw.co/" target="_blank" rel="noopener noreferrer">unDraw </a>in one of my products. And what better way to do so than an illustration service like UX Storyboard! unDraw is a constantly updated collection of MIT-licensed beautiful illustrations and images that you can use completely free and without attribution. Ah&#8230;.the wonders of the internet. It&#8217;s like a never-ending wellspring of good and free things. How do us indie makers and designers ever strike it out on our own without the internet and all its bountiful provision? What crazy lucky abundant times.</p><p><img
+class="size-full wp-image-636 alignright" src="https://jasonleow.sg/wp-content/uploads/2018/08/Image-001.jpg" alt="" width="517" height="294" srcset="https://jasonleow.sg/wp-content/uploads/2018/08/Image-001.jpg 517w, https://jasonleow.sg/wp-content/uploads/2018/08/Image-001-300x171.jpg 300w, https://jasonleow.sg/wp-content/uploads/2018/08/Image-001-500x284.jpg 500w" sizes="(max-width: 517px) 100vw, 517px" />As for the name, again I polled my friends on social media. &#8220;UX Storyboard&#8221; was a simple and straightforward choice. It brought home what the service was about. Nothing fancy. After buying the domain on <a
+href="https://www.namecheap.com/" target="_blank" rel="noopener noreferrer">Namecheap</a>, I changed the DNS settings to the ones provided by my <a
+href="https://www.siteground.com/web-hosting.htm" target="_blank" rel="noopener noreferrer">Siteground </a>hosting. Thankfully my web hosting could host an unlimited number of websites, so that really helps in my #1mvp1month experiments.</p><p>Next comes buying the WordPress theme. Of all the different ones on Themeforest, I found <a
+href="https://themeforest.net/item/landkit-wordpress-landing-page-theme/20425881" target="_blank" rel="noopener noreferrer">Landkit</a> to be the one that fits my liking. It had a fun and delightful design to it that aligned well with an illustration service. I like the theme design so much that I even adjusted the base colour of the unDraw illustrations to fit the theme. I even took inspiration from the Landkit logo to make my own scrappy logo for UX Storyboard!</p><p>Side point: Confession to make &#8211; I make all my logos and designs in Powerpoint.<span
+style="color: #ff0000;"> </span>I don&#8217;t even know how to use Photoshop or Illustrator. Can I even call myself a designer if I don&#8217;t know that? &#x1f60e;</p><div
+class="tiled-gallery type-rectangular tiled-gallery-unresized" data-original-width="970" data-carousel-extra='{&quot;blog_id&quot;:1,&quot;permalink&quot;:&quot;https:\/\/jasonleow.sg\/621\/creating-productized-service-3-days\/&quot;,&quot;likes_blog_id&quot;:82564458}' itemscope itemtype="http://schema.org/ImageGallery" ><div
+class="gallery-row" style="width: 970px; height: 266px;" data-original-width="970" data-original-height="266" ><div
+class="gallery-group images-1" style="width: 485px; height: 266px;" data-original-width="485" data-original-height="266" ><div
+class="tiled-gallery-item tiled-gallery-item-large" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"> <a
+href="https://jasonleow.sg/image-003-2/" border="0" itemprop="url"><meta
+itemprop="width" content="481"><meta
+itemprop="height" content="262"> <img
+data-attachment-id="638" data-orig-file="https://jasonleow.sg/wp-content/uploads/2018/08/Image-003-2.jpg" data-orig-size="1600,870" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Image 003 (2)" data-image-description="" data-medium-file="https://jasonleow.sg/wp-content/uploads/2018/08/Image-003-2-300x163.jpg" data-large-file="https://jasonleow.sg/wp-content/uploads/2018/08/Image-003-2-1024x557.jpg" src="https://i1.wp.com/jasonleow.sg/wp-content/uploads/2018/08/Image-003-2.jpg?resize=481%2C262&#038;ssl=1" width="481" height="262" data-original-width="481" data-original-height="262" itemprop="http://schema.org/image" title="Image 003 (2)" alt="Image 003 (2)" style="width: 481px; height: 262px;" /> </a></div></div><div
+class="gallery-group images-1" style="width: 485px; height: 266px;" data-original-width="485" data-original-height="266" ><div
+class="tiled-gallery-item tiled-gallery-item-large" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"> <a
+href="https://jasonleow.sg/image-002-2/" border="0" itemprop="url"><meta
+itemprop="width" content="481"><meta
+itemprop="height" content="262"> <img
+data-attachment-id="637" data-orig-file="https://jasonleow.sg/wp-content/uploads/2018/08/Image-002.jpg" data-orig-size="1600,870" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Image 002" data-image-description="" data-medium-file="https://jasonleow.sg/wp-content/uploads/2018/08/Image-002-300x163.jpg" data-large-file="https://jasonleow.sg/wp-content/uploads/2018/08/Image-002-1024x557.jpg" src="https://i1.wp.com/jasonleow.sg/wp-content/uploads/2018/08/Image-002.jpg?resize=481%2C262&#038;ssl=1" width="481" height="262" data-original-width="481" data-original-height="262" itemprop="http://schema.org/image" title="Image 002" alt="Image 002" style="width: 481px; height: 262px;" /> </a></div></div></div><div
+class="gallery-row" style="width: 970px; height: 529px;" data-original-width="970" data-original-height="529" ><div
+class="gallery-group images-1" style="width: 970px; height: 529px;" data-original-width="970" data-original-height="529" ><div
+class="tiled-gallery-item tiled-gallery-item-large" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"> <a
+href="https://jasonleow.sg/image-001-2/" border="0" itemprop="url"><meta
+itemprop="width" content="966"><meta
+itemprop="height" content="525"> <img
+data-attachment-id="635" data-orig-file="https://jasonleow.sg/wp-content/uploads/2018/08/Image-001-2.jpg" data-orig-size="1600,870" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Image 001 (2)" data-image-description="" data-medium-file="https://jasonleow.sg/wp-content/uploads/2018/08/Image-001-2-300x163.jpg" data-large-file="https://jasonleow.sg/wp-content/uploads/2018/08/Image-001-2-1024x557.jpg" src="https://i0.wp.com/jasonleow.sg/wp-content/uploads/2018/08/Image-001-2.jpg?resize=966%2C525&#038;ssl=1" width="966" height="525" data-original-width="966" data-original-height="525" itemprop="http://schema.org/image" title="Image 001 (2)" alt="Image 001 (2)" style="width: 966px; height: 525px;" /> </a></div></div></div></div><p>&nbsp;</p><p>Next: onboarding the customer to get all the information I need for creating the storyboard. The WordPress template didn&#8217;t come with onboarding features, so I had to hack together my own, using an online form via Google Forms. It works but unfortunately it cannot accept payment. I&#8217;m considering using Typeform for payment in the future, so that I can settle payment together with information gathering. Accepting payments is a paid feature on Typeform, so I&#8217;m holding back first until I get enough customers to justify the US$30/month cost!</p><p>Building the human cloud was next. I reached out to friends, friends of friends, and other freelancers available on Upwork and Fiverr to see which one fit my criteria and business needs. I got the interested ones to send me their rates to decide on my pricing, and samples of their work for showcase.</p><p>&nbsp;</p><h3>WHAT I LEARNED, POST-LAUNCH</h3><p><img
+class="wp-image-703 size-full alignright" src="https://jasonleow.sg/wp-content/uploads/2018/08/No1-medal-on-PH-4-Aug-2018.jpg" alt="" width="209" height="66" /><span
+class="stag-dropcap stag-dropcap--normal" style="font-size:50px;line-height:50px;width:50px;height:50px;">1</span> I got lucky this time round and got featured on Product Hunt! And UX Storyboard rose up to be number 1 (<a
+href="https://www.producthunt.com/time-travel/2018/8/4" target="_blank" rel="noopener noreferrer">4 Aug 2018</a>)!!! OK&#8230;I celebrated. So what if number 1? It&#8217;s great fun and all when caught up in the launch hype, but it doesn&#8217;t mean the product will do well in monetization after that. I&#8217;d learned to not be over-optimistic about Product Hunt results. In fact, I didn&#8217;t even think it will get featured at all. So there you have it. I said it. I&#8217;m the ungrateful bastard who took a Product Hunt number 1 for granted. Who cares, really? Not even the customers. In the end, working hard on making customers happy, marketing it well on search and social media, will be the ultimate differentiators.</p><p><span
+class="stag-dropcap stag-dropcap--normal" style="font-size:50px;line-height:50px;width:50px;height:50px;">2</span> So far, there&#8217;s been 2 orders and in total I made about US$700! Just from this alone, I recouped my costs for ALL my 5 MVPs so far (of course, that does not cover the costs of my own time). This is what I love about productized services &#8211; easier to set up, less upfront capital investment, and revenue returns are higher per customer. On the other hand, it takes a lot more work and effort, manpower and definitely less scalability than software.</p><p><span
+class="stag-dropcap stag-dropcap--normal" style="font-size:50px;line-height:50px;width:50px;height:50px;">3</span> Managing expectations on delivery timelines is key. Customers wanted long storyboards within a day or two, which is near impossible to deliver. And because I made the painful decision to not work on weekends, I have to convince customers about that. Yes, it might hurt the business but in the long run, it prevents burnout, makes for happier employees/boss, and happy people creates happy customers. So it a call I had to make.</p><p><span
+class="stag-dropcap stag-dropcap--normal" style="font-size:50px;line-height:50px;width:50px;height:50px;">4</span> Creating and managing my marketing funnel is key to sustaining this business. As of now, I don&#8217;t even have a funnel. No free trial or easy way for people to try out the service before committing. I also don&#8217;t have a way to find, capture and engage leads. No marketing plan whatsoever yet. The Product Hunt launch helped it gain some visibility a bit,, but the initial interest had died down after 1 month. Now what? I&#8217;m exploring buying ads on Google to capture customers when they are searching for storyboarding services on Google. Now comes the real work of business-making!</p><p>&nbsp;</p><h3>SO, WHAT DO YOU THINK?</h3><p>So <a
+href="https://uxstoryboard.com/" target="_blank" rel="noopener noreferrer">UX Storyboard</a> is now live. I&#8217;d love to hear if this is useful for you, why or why not? Honest feedback is how I like to take it, so just give it to me! 😛</p><p>Track my #1mvp1month quest on <a
+href="https://www.facebook.com/pleasegetjason" target="_blank" rel="noopener noreferrer">Facebook</a>, <a
+href="https://twitter.com/jasonleowsg" target="_blank" rel="noopener noreferrer">Twitter</a>, <a
+href="https://www.linkedin.com/in/jason-leow-9a4b392a/" target="_blank" rel="noopener noreferrer">LinkedIn</a> or <a
+href="https://t.me/follow1mvp1month" target="_blank" rel="noopener noreferrer">Telegram</a>.</p><p>&nbsp;</p><hr
+class="stag-divider stag-divider--plain" /><h3></h3><h3>ALL ABOUT Ux Storyboard</h3><p>UX Storyboard is an online productized service to help designers and innovators tell better stories of the UX of their product/service, by making them more visual &amp; tangible through storyboarding.</p><h3>WHO IS UX Storyboard FOR</h3><p><em>For designers, by designers</em></p><p>UX Storyboard is for creative professionals, designers, innovators, indie makers, product managers, entrepreneurs, intrapreneurs, change agents. You could be a classically trained designer who&#8217;s short on time and wish to outsource storyboarding to someone who you trust for quality and speed. Or you could be an entrepreneur with a big pitch to investors coming up and could benefit from better storytelling of your new product. Or you could simply be someone who&#8217;s trying to convince your management to implement a new idea. We help you visualize and make tangible your ideas through storyboarding, so that you can persuade, convince, assure your audience with ease. We created UX Storyboard for you as much as for ourselves, because as designers this is something we need in our own work too!</p><p>&nbsp;</p><p><em>Field-tested quality assured, without all the hassle</em></p><p>We know how difficult it is to scour Fiverr or Upwork to find talented freelancers who deliver quality work on time and on budget. Investing time and effort to communicate your concepts is an additional burden when working with talents who&#8217;s first language is not yours. So we do all that for you, so that you don&#8217;t have to. Just tell us your product name, intended feature(s), user(s), and we write and illustrate the storyboard for you.</p></div><footer
+class="entry-meta"><div
+class="inner-block"><span
+class="tags-links"><span
+class="tags-label">Tags:</span> <a
+href="https://jasonleow.sg/tag/1mvp1month/" rel="tag">1mvp1month</a>, <a
+href="https://jasonleow.sg/tag/design/" rel="tag">design</a>, <a
+href="https://jasonleow.sg/tag/illustration/" rel="tag">illustration</a>, <a
+href="https://jasonleow.sg/tag/productized-service/" rel="tag">productized service</a>, <a
+href="https://jasonleow.sg/tag/storyboarding/" rel="tag">storyboarding</a></span></div>	</footer>
+</article><nav
+class="navigation post-navigation" role="navigation"><h1 class="screen-reader-text">Post navigation</h1><div
+class="nav-links"><div
+class="nav-previous nav-link"><a
+href="https://jasonleow.sg/601/recap-reflect-refresh/" rel="prev"><span
+class="meta-nav">Previous Post</span> Recap, reflect, refresh</a></div><div
+class="nav-next nav-link"><a
+href="https://jasonleow.sg/652/creating-fun-audience-one/" rel="next"><span
+class="meta-nav">Next Post</span> Creating for an audience of one, for fun</a></div></div>
+</nav><div
+id="comments" class="comments-area"><h2 class="comments-title block-title">
+<span>
+2 comments			</span></h2><ul
+class="comment-list"><li
+class="comment even thread-even depth-1 show-avatar" id="li-comment-346">
+<article
+id="div-comment-346" class="comment-body"><div
+class="comment-author-wrap">
+<figure
+class="comment-avatar">
+<img
+alt='' src='https://secure.gravatar.com/avatar/5b985b57316a64812cc596d555a0b85e?s=70&#038;d=mm&#038;r=g' srcset="https://secure.gravatar.com/avatar/5b985b57316a64812cc596d555a0b85e?s=140&amp;d=mm&amp;r=g 2x" class='avatar avatar-70 photo' height='70' width='70' />				</figure><footer
+class="comment-meta">
+<cite
+class="comment-author">Aaron</cite>
+<span
+class="comment-metadata">
+<a
+class="time-link" href="https://jasonleow.sg/621/creating-productized-service-3-days/#comment-346">
+<time
+class="comment-published" datetime="2018-09-16T20:37:51+00:00" title="Sunday, September 16, 2018, 8:37 pm">
+September 16, 2018							</time>
+</a>
+<span
+class="divider">&#47;</span> <span
+class="reply"><a
+rel='nofollow' class='comment-reply-link' href='https://jasonleow.sg/621/creating-productized-service-3-days/?replytocom=346#respond' onclick='return addComment.moveForm( "div-comment-346", "346", "respond", "621" )' aria-label='Reply to Aaron'>Reply</a></span>											</span></footer></div><div
+class="comment-content"><p>Hey Jason, how much revenue has UX Storyboard generated so far?</p></div>
+</article><ul
+class="children"><li
+class="comment byuser comment-author-jason bypostauthor odd alt depth-2 show-avatar" id="li-comment-347">
+<article
+id="div-comment-347" class="comment-body"><div
+class="comment-author-wrap">
+<figure
+class="comment-avatar">
+<img
+alt='' src='https://secure.gravatar.com/avatar/8f91140ca8cce7cc2e6d5a2e3704a245?s=70&#038;d=mm&#038;r=g' srcset="https://secure.gravatar.com/avatar/8f91140ca8cce7cc2e6d5a2e3704a245?s=140&amp;d=mm&amp;r=g 2x" class='avatar avatar-70 photo' height='70' width='70' />				</figure><footer
+class="comment-meta">
+<cite
+class="comment-author">Jason<span
+class="post-author">(Author)</span></cite>
+<span
+class="comment-metadata">
+<a
+class="time-link" href="https://jasonleow.sg/621/creating-productized-service-3-days/#comment-347">
+<time
+class="comment-published" datetime="2018-09-17T00:48:42+00:00" title="Monday, September 17, 2018, 12:48 am">
+September 17, 2018							</time>
+</a>
+<span
+class="divider">&#47;</span> <span
+class="reply"><a
+rel='nofollow' class='comment-reply-link' href='https://jasonleow.sg/621/creating-productized-service-3-days/?replytocom=347#respond' onclick='return addComment.moveForm( "div-comment-347", "347", "respond", "621" )' aria-label='Reply to Jason'>Reply</a></span>											</span></footer></div><div
+class="comment-content"><p>Not much. Few hundred USD so far. I stopped marketing it after the launch, so the leads fell off from there&#8230;</p></div>
+</article></li></ul></li></ul><div
+id="respond" class="comment-respond"><h3 id="reply-title" class="comment-reply-title"><span>Submit a comment</span> <small><a
+rel="nofollow" id="cancel-comment-reply-link" href="/621/creating-productized-service-3-days/#respond" style="display:none;">Cancel reply</a></small></h3><form
+action="https://jasonleow.sg/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate><p
+class="comment-notes"><span
+id="email-notes">Your email address will not be published.</span> Required fields are marked <span
+class="required">*</span></p><p
+class="comment-form-comment"><label
+for="comment">Comment</label><textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" aria-required="true" required="required"></textarea></p><p
+class="comment-form-author"><label
+for="author">Name <span
+class="required">*</span></label> <input
+id="author" name="author" type="text" value="" size="30" maxlength="245" aria-required='true' required='required' /></p><p
+class="comment-form-email"><label
+for="email">Email <span
+class="required">*</span></label> <input
+id="email" name="email" type="email" value="" size="30" maxlength="100" aria-describedby="email-notes" aria-required='true' required='required' /></p><p
+class="comment-form-url"><label
+for="url">Website</label> <input
+id="url" name="url" type="url" value="" size="30" maxlength="200" /></p><p
+class="form-submit"><input
+name="submit" type="submit" id="submit" class="submit" value="Submit Comment" /> <input
+type='hidden' name='comment_post_ID' value='621' id='comment_post_ID' />
+<input
+type='hidden' name='comment_parent' id='comment_parent' value='0' /></p><p
+style="display: none;"><input
+type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="8cba500a60" /></p><p
+style="display: none;"><input
+type="hidden" id="ak_js" name="ak_js" value="22"/></p></form></div></div>
+</main></div></div><footer
+id="colophon" class="site-footer" role="contentinfo"><div
+class="inner-block"><div
+class="footer-text-container"><div
+class="footer-text"><p>© Copyright 2018 Jason Leow</p></div><ul
+class="footer-social-links"><li
+class="facebook">
+<a
+href="https://www.facebook.com/pleasegetjason" title="Facebook">
+<span
+class="genericon genericon-facebook"></span>
+</a></li><li
+class="twitter">
+<a
+href="https://twitter.com/jasonleowsg" title="Twitter">
+<span
+class="genericon genericon-twitter"></span>
+</a></li><li
+class="linkedin">
+<a
+href="https://sg.linkedin.com/pub/jason-leow/2a/b39/9a4" title="LinkedIn">
+<span
+class="genericon genericon-linkedin"></span>
+</a></li><li
+class="instagram">
+<a
+href="http://instagram.com/jasonleow" title="Instagram">
+<span
+class="genericon genericon-instagram"></span>
+</a></li><li
+class="email">
+<a
+href="mailto:&#106;&#097;so&#110;&#064;j&#097;s&#111;&#110;leow&#046;&#115;g" title="Email">
+<span
+class="genericon genericon-mail"></span>
+</a></li><li
+class="rss">
+<a
+href="https://t.me/jasonleowsg" title="RSS">
+<span
+class="genericon genericon-feed"></span>
+</a></li></ul></div></div>
+</footer></div><div
+style="display:none"><div
+class="grofile-hash-map-5b985b57316a64812cc596d555a0b85e"></div><div
+class="grofile-hash-map-8f91140ca8cce7cc2e6d5a2e3704a245"></div></div> <script type="text/javascript" src="https://jasonleow.sg/wp-content/cache/minify/5b374.js"></script> <!--[if lte IE 8]><link
+rel='stylesheet' id='jetpack-carousel-ie8fix-css'  href='https://jasonleow.sg/wp-content/plugins/jetpack/modules/carousel/jetpack-carousel-ie8fix.css?ver=20121024' type='text/css' media='all' />
+<![endif]--> <script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201843'></script> <script type='text/javascript'>/*  */
+var sta_settings = {"distance":"50","speed":"500","exceptions":""};
+/*  */</script> <script type="text/javascript" src="https://jasonleow.sg/wp-content/cache/minify/91e72.js"></script> <script type='text/javascript' src='https://secure.gravatar.com/js/gprofiles.js?ver=2018Octaa'></script> <script type='text/javascript'>/*  */
+var WPGroHo = {"my_hash":""};
+/*  */</script> <script type="text/javascript" src="https://jasonleow.sg/wp-content/cache/minify/a5344.js"></script> <script type='text/javascript'>/*  */
+var blinkFitVids = {"selectors":"iframe[src*='www.viddler.com'],iframe[src*='money.cnn.com'],iframe[src*='www.educreations.com'],iframe[src*='\/\/blip.tv'],iframe[src*='\/\/embed.ted.com'],iframe[src*='\/\/www.hulu.com']"};
+/*  */</script> <script type="text/javascript" src="https://jasonleow.sg/wp-content/cache/minify/0e676.js"></script> <script type='text/javascript'>/*<![CDATA[*//*  */
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"en","ajaxurl":"https:\/\/jasonleow.sg\/wp-admin\/admin-ajax.php","nonce":"830f8872a7","display_exif":"1","display_geo":"1","background_color":"black","comment":"Comment","post_comment":"Post Comment","write_comment":"Write a Comment...","loading_comments":"Loading Comments...","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","comment_registration":"0","require_name_email":"1","login_url":"https:\/\/jasonleow.sg\/wp-login.php?redirect_to=https%3A%2F%2Fjasonleow.sg%2F621%2Fcreating-productized-service-3-days%2F","local_comments_commenting_as":"<fieldset><label for=\"email\">Email (Required)<\/label> <input type=\"text\" name=\"email\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-email-field\" \/><\/fieldset><fieldset><label for=\"author\">Name (Required)<\/label> <input type=\"text\" name=\"author\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-author-field\" \/><\/fieldset><fieldset><label for=\"url\">Website<\/label> <input type=\"text\" name=\"url\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-url-field\" \/><\/fieldset>"};
+/*  *//*]]>*/</script> <script type="text/javascript" src="https://jasonleow.sg/wp-content/cache/minify/3939f.js"></script> <script type='text/javascript' src='https://stats.wp.com/e-201843.js' async defer></script> <script type='text/javascript'>_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:4.4.2',blog:'82564458',post:'621',tz:'8',srv:'jasonleow.sg'} ]);
+	_stq.push([ 'clickTrackerInit', '82564458', '621' ]);</script> </body></html>

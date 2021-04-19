@@ -1,0 +1,515 @@
+<!DOCTYPE html><html
+lang="en-US" prefix="og: http://ogp.me/ns#"><head><link
+rel="stylesheet" type="text/css" href="https://jasonleow.sg/wp-content/cache/minify/88bc4.css" media="all" /><meta
+charset="UTF-8"><meta
+name="viewport" content="width=device-width, initial-scale=1"><link
+rel="profile" href="http://gmpg.org/xfn/11"><link
+rel="pingback" href="https://jasonleow.sg/xmlrpc.php"><title>Creating a job board without code - jason</title><meta
+name="description" content="Public Design Jobs is a mission-based job board for design and innovation jobs in the public sector, worldwide. I created Public Design Jobs to help people discover career and job opportunities at the intersection of design and the public good."/><meta
+name="robots" content="noodp"/><link
+rel="canonical" href="https://jasonleow.sg/545/creating-designgov-job-board/" /><meta
+property="og:locale" content="en_US" /><meta
+property="og:type" content="article" /><meta
+property="og:title" content="Creating a job board without code - jason" /><meta
+property="og:description" content="Public Design Jobs is a mission-based job board for design and innovation jobs in the public sector, worldwide. I created Public Design Jobs to help people discover career and job opportunities at the intersection of design and the public good." /><meta
+property="og:url" content="https://jasonleow.sg/545/creating-designgov-job-board/" /><meta
+property="og:site_name" content="jason" /><meta
+property="article:tag" content="1mvp1month" /><meta
+property="article:tag" content="careers" /><meta
+property="article:tag" content="design" /><meta
+property="article:tag" content="jobs" /><meta
+property="article:tag" content="public good startup" /><meta
+property="article:section" content="Design" /><meta
+property="article:published_time" content="2018-05-29T17:05:00+08:00" /><meta
+property="article:modified_time" content="2018-08-01T16:48:25+08:00" /><meta
+property="og:updated_time" content="2018-08-01T16:48:25+08:00" /><meta
+property="og:image" content="https://jasonleow.sg/wp-content/uploads/2018/05/pexels-photo-358499.jpeg" /><meta
+property="og:image:width" content="1920" /><meta
+property="og:image:height" content="1280" /><link
+rel='dns-prefetch' href='//s0.wp.com' /><link
+rel='dns-prefetch' href='//secure.gravatar.com' /><link
+rel='dns-prefetch' href='//fonts.googleapis.com' /><link
+rel='dns-prefetch' href='//s.w.org' /><link
+rel="alternate" type="application/rss+xml" title="jason &raquo; Feed" href="https://jasonleow.sg/feed/" /><link
+rel="alternate" type="application/rss+xml" title="jason &raquo; Comments Feed" href="https://jasonleow.sg/comments/feed/" /><link
+rel="alternate" type="application/rss+xml" title="jason &raquo; Creating a job board without code Comments Feed" href="https://jasonleow.sg/545/creating-designgov-job-board/feed/" /> <script type="text/javascript">/*<![CDATA[*/window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/jasonleow.sg\/wp-includes\/js\/wp-emoji-release.min.js?ver=e14bdd0cd7d8941c17be4cc3b70aef3b"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);/*]]>*/</script> <style type="text/css">img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}</style><link
+rel='stylesheet' id='blink-google-fonts-css'  href='//fonts.googleapis.com/css?family=Montserrat%3Aregular%2C700%7CPT+Serif%3Aregular%2Citalic%2C700%26subset%3Dlatin%2Clatin&#038;ver=1.0.2' type='text/css' media='all' /> <script type="text/javascript">(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+	__gaTracker('create', 'UA-58446552-1', 'auto');
+	__gaTracker('set', 'forceSSL', true);
+	__gaTracker('require', 'displayfeatures');
+	__gaTracker('send','pageview');</script>  <script type="text/javascript" src="https://jasonleow.sg/wp-content/cache/minify/ef6c2.js"></script> <link
+rel='https://api.w.org/' href='https://jasonleow.sg/wp-json/' /><link
+rel="EditURI" type="application/rsd+xml" title="RSD" href="https://jasonleow.sg/xmlrpc.php?rsd" /><link
+rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://jasonleow.sg/wp-includes/wlwmanifest.xml" /><link
+rel='shortlink' href='https://wp.me/p5AqMO-8N' /><link
+rel="alternate" type="application/json+oembed" href="https://jasonleow.sg/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fjasonleow.sg%2F545%2Fcreating-designgov-job-board%2F" /><link
+rel="alternate" type="text/xml+oembed" href="https://jasonleow.sg/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fjasonleow.sg%2F545%2Fcreating-designgov-job-board%2F&#038;format=xml" /> <script type="text/javascript">/*<![CDATA[*/(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//jasonleow.sg/?wordfence_logHuman=1&hid=056D4B5C109A288773FF5D13BCE4F551');/*]]>*/</script> <link
+rel='dns-prefetch' href='//v0.wordpress.com'><style type='text/css'>img#wpstats{display:none}</style><style type="text/css" id="blink-custom-css">.post-545 .post-grid{background-image:url(https://jasonleow.sg/wp-content/uploads/2018/05/pexels-photo-358499-1700x1133.jpeg);}body.mce-content-body,.page-links span:not(.page-numbers),.block-title span:not(.page-numbers),.archive-title span:not(.page-numbers),.comments-area > .comment-respond .comment-reply-title span:not(.page-numbers){background-color:#ffffff;}.color-accent-text,a,#infinite-handle:hover span{color:#3dc9d8;}body,button,.button,input,select,textarea{color:#000000;}</style><link
+rel="icon" href="https://jasonleow.sg/wp-content/uploads/2015/01/site-logo-v2-512px-54b7d2fav1_site_icon-32x32.png" sizes="32x32" /><link
+rel="icon" href="https://jasonleow.sg/wp-content/uploads/2015/01/site-logo-v2-512px-54b7d2fav1_site_icon-256x256.png" sizes="192x192" /><link
+rel="apple-touch-icon-precomposed" href="https://jasonleow.sg/wp-content/uploads/2015/01/site-logo-v2-512px-54b7d2fav1_site_icon-256x256.png" /><meta
+name="msapplication-TileImage" content="https://jasonleow.sg/wp-content/uploads/2015/01/site-logo-v2-512px-54b7d2fav1_site_icon.png" /><style type="text/css" id="wp-custom-css">/*
+Welcome to Custom CSS!
+
+CSS (Cascading Style Sheets) is a kind of code that tells the browser how
+to render a web page. You may delete these comments and get started with
+your customizations.
+
+By default, your stylesheet will be loaded after the theme stylesheets,
+which means that your rules can take precedence and override the theme CSS
+rules. Just write here what you want to change, you don't need to copy all
+your theme's stylesheet content.
+*/
+.entry-footer .comments-link {
+	display: none;
+}
+
+.site {
+	display: block !important;
+}
+
+/*
+.page-cover .entry-footer {
+	display: none;
+}
+*/</style></head><body
+class="post-template-default single single-post postid-545 single-format-standard stagtools"><div
+id="page" class="hfeed site">
+<a
+class="skip-link screen-reader-text" href="#content">Skip to content</a><header
+id="masthead" class="site-header" role="banner"><div
+class="inner-block"><div
+class="site-branding"><h1 class="site-title">
+<a
+href="https://jasonleow.sg/" rel="home">
+jason							</a></h1>
+<span
+class="site-description">
+design ✏️ + public good &#x1f3db; + indie maker &#x1f680; + mindfulness ⛩						</span></div><button
+id="menu-toggle" class="menu-toggle">
+<span
+class="menu-toggle__label">Menu</span>
+<span
+class="genericon genericon-menu"></span>
+</button><nav
+id="site-navigation" class="main-navigation" role="navigation"><ul
+id="menu-menu-1" class="primary-menu"><li
+id="menu-item-10" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-10"><a
+href="https://jasonleow.sg/">Home</a></li><li
+id="menu-item-11" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11"><a
+href="https://jasonleow.sg/bio/">Bio</a></li><li
+id="menu-item-125" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-125"><a
+href="https://jasonleow.sg/category/portfolio/">My work</a></li><li
+id="menu-item-30" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30"><a
+href="https://jasonleow.sg/contact/">Contact</a></li></ul>			</nav></div>
+</header><div
+id="content" class="site-content"><div
+id="primary" class="content-area">
+<main
+id="main" class="site-main" role="main">
+<article
+id="post-545" class="post-545 post type-post status-publish format-standard has-post-thumbnail hentry category-design category-portfolio category-public-good category-work tag-1mvp1month tag-careers tag-design tag-jobs tag-public-good-startup">
+<section
+class="post-cover post-grid"><div
+class="overlay"></div><div
+class="post-cover-inside"><div
+class="text-container post-cover-content">
+<header
+class="entry-header"><h1 class="entry-title"><span
+class="entry-title-primary">Creating a job board without code</span> <span
+class="entry-subtitle">My 4th MVP for #1mvp1month - Public Design Jobs</span></h1>			</header><footer
+class="entry-footer">
+<span
+class="posted-on">Published <a
+href="https://jasonleow.sg/545/creating-designgov-job-board/" rel="bookmark"><time
+class="entry-date published" datetime="2018-05-29T17:05:00+00:00">29 May 2018</time><time
+class="updated" datetime="2018-08-01T16:48:25+00:00">1 August 2018</time></a></span><span
+class="byline"> by <span
+class="author vcard"><a
+class="url fn n" href="https://jasonleow.sg/author/jason/">Jason</a></span></span>
+<span
+class="cat-links">in <a
+href="https://jasonleow.sg/category/design/" rel="category tag">Design</a>, <a
+href="https://jasonleow.sg/category/portfolio/" rel="category tag">Portfolio</a>, <a
+href="https://jasonleow.sg/category/public-good/" rel="category tag">Public good</a>, <a
+href="https://jasonleow.sg/category/work/" rel="category tag">Work</a></span><div><span
+class="comments-link"><a
+href="https://jasonleow.sg/545/creating-designgov-job-board/#comments">2 Comments</a></span></div>			</footer></div></div>
+</section><div
+class="entry-content"><h3>BACKSTORY</h3><p>I’m tired of myself talking about making products but never. It&#8217;s always been my dream to make products that serve the public good and create positive social impact. It&#8217;s my passion and purpose to create a personally meaningful body of work at the intersection of design, social/public issues and entrepreneurship. So I’m committing to make <a
+href="https://jasonleow.sg/310/1mvp1month/" target="_blank" rel="noopener noreferrer">1 minimum viable product per month</a>, starting Feb 2018. I’ll keep going till I run out of ideas or money, or something takes off in a huge way that requires all my time, or exhaustion kicks in. Whichever comes first. <a
+href="https://twitter.com/search?f=tweets&amp;q=%231mvp1month&amp;src=typd" target="_blank" rel="noopener noreferrer"><strong>#1mvp1month</strong></a></p><p>For my 4th MVP, I&#8217;m launching <a
+href="https://publicdesignjobs.com/" target="_blank" rel="noopener noreferrer">Public Design Jobs</a>, a mission-based job board for design and innovation jobs in the public sector, worldwide. Designers seeking social impact in their work often do not know where to look for opportunities. Employers, similarly, do not know where to find designers interested in joining government. There&#8217;s a lot of missed opportunities in matching interested job seeker to willing employer, hence this job board aims to address that.</p><p><em>(Click <a
+href="#howtojobboard">here</a> if you&#8217;re an indie maker/developer and want to skip straight to the how-to section on making the job board)</em></p><p>&nbsp;</p><h3>WHAT&#8217;S THE PROBLEM &amp; OPPORTUNITY?</h3><p>Why make Public Design Jobs?</p><p>Being in the design+gov field for some years now, I’m struck by how there’s a lot of missed opportunities in matching employers and job candidates. I often get asked about my design work with government agencies. People are curious. Many designers and other innovation professionals I know are hungry to explore more altruistic career pathways, more social impact and a deeper personal meaning in their work. This might be due to fatigue or boredom from years of commercial work, or simply a curiosity to stretch themselves in a different way. I get this too from many younger fresh graduates who see job security and purpose/passion as <em><strong>not</strong></em> mutually exclusive &#8211; being able to make a decent living is just as important for their careers as being able to make a decent impact on society. The social mission is important. And they aren&#8217;t just looking for low commitment, pro bono volunteering opportunities; to design the odd website for a charity here or do up a event poster there. A proper career are on the cards if it checks off their boxes.</p><p>Yet most of the designers I speak to are often unaware of the many available opportunities in the public sector. <em>&#8220;I don’t really know what’s out there. Help me discover job opportunities which I may be interested in but not even know exist.&#8221;</em> They are often curious to know what it&#8217;s like to work as an in-house designer inside government; what are the projects that they can work on; how is it different from commercial work; is there career progression; does it pay well; how&#8217;s the culture like &#8211; stifling red tape, or skunk works?</p><p>On the employer&#8217;s side, they often do not know where to find the right design talent who are interested to work in this niche area, because design and innovation positions are relatively new to government. Even when it&#8217;s the in-house design team doing their own hiring, it&#8217;s exceedingly difficult to find the right design talent. People with the right mix of depth in design skills and breadth in experience (in say, managing stakeholders and working through organisational red tape), coupled with the right personality and attitudes (e.g. pro-active yet patient). Many in-house teams I know have permanently open vacancies, as after they manage hire one designer, another one would be leaving!</p><p>So it&#8217;s kind of like a situation where you have two groups of people wandering in the talent wilderness, looking for each other but just passing each other by because they are looking/hanging out at the wrong places!</p>
+<figure
+class="stag-section stag-image stag-image--no-filter stag-image--center"><img
+src="https://jasonleow.sg/wp-content/uploads/2018/05/forest-hiking-trees-15286-2.jpg" alt=""></figure><p>Employers also want to get the job exposed to the right audience and secure the best candidate for the job. A job portal should also be easy to use, help them save time and effort, allowing them to fill vacancies quickly. Depending on position, they don&#8217;t always have huge budgets for recruiters or ads, so affordability is important too.</p><p>To my knowledge, I do not know of any job board or job aggregator site that focuses exclusively at this intersection of design and public service. So I do sense a market gap here that could be plugged. By making this job board, I hope to bring both sides together. As Public Design Jobs is a sister site to <a
+href="https://publicdesignvault.com/" target="_blank" rel="noopener noreferrer">Public Design Vault</a> – a curated directory of 500+ design tools &amp; resources for the public good – I’m hoping there will be serendipitous opportunities for people to discover a new meaningful and impactful career in design, and to shine a spotlight on our field at the intersection of design and the public good.</p><p>In the larger scheme of things, a job board probably plays just one small part in helping people discover a new design career in government. I won&#8217;t pretend it solves all of the problems of missed matches between employers and job seekers, but I guess this is a start. It&#8217;s a minimum viable product after all. But thinking about the larger picture makes me excited about what the product roadmap might look like for this job board! Imagining other career tools and content for designers, how to articles, or even career coaching services&#8230;&#8230;</p><p>&nbsp;</p>
+<span
+id="howtojobboard" class="sta-anchor " aria-hidden="true"></span><h3>WHAT FEATURES DO I NEED?</h3><p>I started out by searching for job boards in niche fields to learn what features they have, what makes them unique and how they run the whole setup. I was drawn to the clean, minimalist list-format of job boards like Design Jobs Board, Remote OK and Panda Jobs:</p><div
+class="tiled-gallery type-rectangular tiled-gallery-unresized" data-original-width="970" data-carousel-extra='{&quot;blog_id&quot;:1,&quot;permalink&quot;:&quot;https:\/\/jasonleow.sg\/545\/creating-designgov-job-board\/&quot;,&quot;likes_blog_id&quot;:82564458}' itemscope itemtype="http://schema.org/ImageGallery" ><div
+class="gallery-row" style="width: 970px; height: 439px;" data-original-width="970" data-original-height="439" ><div
+class="gallery-group images-1" style="width: 970px; height: 439px;" data-original-width="970" data-original-height="439" ><div
+class="tiled-gallery-item tiled-gallery-item-large" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><meta
+itemprop="width" content="966"><meta
+itemprop="height" content="435"> <img
+data-attachment-id="562" data-orig-file="https://jasonleow.sg/wp-content/uploads/2018/05/Image-002.jpg" data-orig-size="1514,681" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="" data-image-description="" data-medium-file="https://jasonleow.sg/wp-content/uploads/2018/05/Image-002-300x135.jpg" data-large-file="https://jasonleow.sg/wp-content/uploads/2018/05/Image-002-1024x461.jpg" src="https://i0.wp.com/jasonleow.sg/wp-content/uploads/2018/05/Image-002.jpg?resize=966%2C435&#038;ssl=1" width="966" height="435" data-original-width="966" data-original-height="435" itemprop="http://schema.org/image" title="" alt="Design Jobs Board" style="width: 966px; height: 435px;" /><div
+class="tiled-gallery-caption" itemprop="caption description"> <a
+href="https://designjobsboard.com" target= "_blank">Design Jobs Board</a></div></div></div></div><div
+class="gallery-row" style="width: 970px; height: 330px;" data-original-width="970" data-original-height="330" ><div
+class="gallery-group images-1" style="width: 542px; height: 330px;" data-original-width="542" data-original-height="330" ><div
+class="tiled-gallery-item tiled-gallery-item-large" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><meta
+itemprop="width" content="538"><meta
+itemprop="height" content="326"> <img
+data-attachment-id="563" data-orig-file="https://jasonleow.sg/wp-content/uploads/2018/05/Image-004.jpg" data-orig-size="1033,625" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="" data-image-description="" data-medium-file="https://jasonleow.sg/wp-content/uploads/2018/05/Image-004-300x182.jpg" data-large-file="https://jasonleow.sg/wp-content/uploads/2018/05/Image-004-1024x620.jpg" src="https://i2.wp.com/jasonleow.sg/wp-content/uploads/2018/05/Image-004.jpg?resize=538%2C326&#038;ssl=1" width="538" height="326" data-original-width="538" data-original-height="326" itemprop="http://schema.org/image" title="" alt="Remote OK" style="width: 538px; height: 326px;" /><div
+class="tiled-gallery-caption" itemprop="caption description"> <a
+href="https://remoteok.io/" target="_blank">Remote OK</a></div></div></div><div
+class="gallery-group images-1" style="width: 428px; height: 330px;" data-original-width="428" data-original-height="330" ><div
+class="tiled-gallery-item tiled-gallery-item-large" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><meta
+itemprop="width" content="424"><meta
+itemprop="height" content="326"> <img
+data-attachment-id="564" data-orig-file="https://jasonleow.sg/wp-content/uploads/2018/05/Image-005.jpg" data-orig-size="1014,779" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="" data-image-description="" data-medium-file="https://jasonleow.sg/wp-content/uploads/2018/05/Image-005-300x230.jpg" data-large-file="https://jasonleow.sg/wp-content/uploads/2018/05/Image-005.jpg" src="https://i0.wp.com/jasonleow.sg/wp-content/uploads/2018/05/Image-005.jpg?resize=424%2C326&#038;ssl=1" width="424" height="326" data-original-width="424" data-original-height="326" itemprop="http://schema.org/image" title="" alt="Panda Jobs" style="width: 424px; height: 326px;" /><div
+class="tiled-gallery-caption" itemprop="caption description"> <a
+href="http://panda.jobs/" target="_blank">Panda Jobs</a></div></div></div></div></div><p>&nbsp;</p><p><span
+style="color: #000000;">The jobs boards gave good inspiration on the look-and-feel, as well as some possible features it should have. I came up with this list of features I wanted:</span></p><p
+style="padding-left: 30px;">&#x1f3a8; Look-&amp;-feel: simple, minimal, clean, in a list format</p><p
+style="padding-left: 30px;">&#x1f3e2; Job post shows: Job title, social mission, company name, company logo, salary, location, job type, expiration date</p><p
+style="padding-left: 30px;">&#x1f4b3; Monetization: Payment gateway (ideally Stripe) for employers to create job post and pay before posting</p><p
+style="padding-left: 30px;">&#x1f440; Ads: Able to add/manage ads that are relevant and tasteful</p><p
+style="padding-left: 30px;">&#x1f517; Integration: API integration with popular job aggregators like Indeed to back-fill jobs if needed</p><p
+style="padding-left: 30px;">&#x1f4b5; Cost: Ideally less than $100 one-time cost to set up (I&#8217;m a big fan of the <a
+href="https://www.goodreads.com/book/show/12605157-the-100-startup" target="_blank" rel="noopener noreferrer">$100 startup</a>)</p><p
+style="padding-left: 30px;">&#x1f44d; Easy, no-code set up and maintenance</p><p
+style="padding-left: 30px;">&#x1f4a1; Future features: candidate login, email alerts, candidate/company profile creation, more paid packages</p><p><span
+style="color: #000000;"> </span></p><h3>FINDING THE RIGHT TECH</h3><p><span
+style="color: #000000;">But how do I make it? </span><span
+style="color: #000000;">When in doubt, ask. That was the first thing I did. Indie Hackers is a great community for learning from other entrepreneurs and product makers, so I posted a <a
+href="https://www.indiehackers.com/forum/ask-ih-whats-the-best-way-to-add-a-job-board-to-my-site-f0c8df932b" target="_blank" rel="noopener noreferrer">question</a>: </span></p>
+<figure
+class="stag-section stag-image stag-image--no-filter stag-image--center"><img
+src="https://jasonleow.sg/wp-content/uploads/2018/05/Image-001.jpg" alt=""></figure><p>I wanted to know the best no-code way to add a job board to my site. I&#8217;m a non-technical founder, I don&#8217;t code and it&#8217;s my first time creating a job board, and I need to make it within a month, so off-the-shelf solutions would be most helpful. I&#8217;m open to buying a template, an open-source job board software (if it&#8217;s easy to install), or even a managed hosting solution. I also wanted to learn fast from what others did before me, so that I don&#8217;t waste time.</p><p>Only thing is, there seems to be limited solutions available out there.  I found some WordPress themes which is a no-code option that I&#8217;m most comfortable with. But many of the designs look dated, and most seem to be bloated with features I don&#8217;t need (like in-built application tracking system for employers).</p><div
+class="tiled-gallery type-rectangular tiled-gallery-unresized" data-original-width="970" data-carousel-extra='{&quot;blog_id&quot;:1,&quot;permalink&quot;:&quot;https:\/\/jasonleow.sg\/545\/creating-designgov-job-board\/&quot;,&quot;likes_blog_id&quot;:82564458}' itemscope itemtype="http://schema.org/ImageGallery" ><div
+class="gallery-row" style="width: 970px; height: 725px;" data-original-width="970" data-original-height="725" ><div
+class="gallery-group images-1" style="width: 497px; height: 725px;" data-original-width="497" data-original-height="725" ><div
+class="tiled-gallery-item tiled-gallery-item-large" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><meta
+itemprop="width" content="493"><meta
+itemprop="height" content="721"> <img
+data-attachment-id="571" data-orig-file="https://jasonleow.sg/wp-content/uploads/2018/05/Image-014.jpg" data-orig-size="1575,2304" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="" data-image-description="" data-medium-file="https://jasonleow.sg/wp-content/uploads/2018/05/Image-014-205x300.jpg" data-large-file="https://jasonleow.sg/wp-content/uploads/2018/05/Image-014-700x1024.jpg" src="https://i0.wp.com/jasonleow.sg/wp-content/uploads/2018/05/Image-014.jpg?resize=493%2C721&#038;ssl=1" width="493" height="721" data-original-width="493" data-original-height="721" itemprop="http://schema.org/image" title="" alt="StaffScout" style="width: 493px; height: 721px;" /><div
+class="tiled-gallery-caption" itemprop="caption description"> <a
+href="http://staffscout.mikado-themes.com/directory-home/" target="_blank">StaffScout</a></div></div></div><div
+class="gallery-group images-3" style="width: 473px; height: 725px;" data-original-width="473" data-original-height="725" ><div
+class="tiled-gallery-item tiled-gallery-item-large" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><meta
+itemprop="width" content="469"><meta
+itemprop="height" content="239"> <img
+data-attachment-id="570" data-orig-file="https://jasonleow.sg/wp-content/uploads/2018/05/Image-013.jpg" data-orig-size="1575,803" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="" data-image-description="" data-medium-file="https://jasonleow.sg/wp-content/uploads/2018/05/Image-013-300x153.jpg" data-large-file="https://jasonleow.sg/wp-content/uploads/2018/05/Image-013-1024x522.jpg" src="https://i1.wp.com/jasonleow.sg/wp-content/uploads/2018/05/Image-013.jpg?resize=469%2C239&#038;ssl=1" width="469" height="239" data-original-width="469" data-original-height="239" itemprop="http://schema.org/image" title="" alt="Recruitment Agency" style="width: 469px; height: 239px;" /><div
+class="tiled-gallery-caption" itemprop="caption description"> <a
+href="http://demo.cmssuperheroes.com/themeforest/wp-recruitment/jobs/" target="_blank">Recruitment Agency</a></div></div><div
+class="tiled-gallery-item tiled-gallery-item-large" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><meta
+itemprop="width" content="469"><meta
+itemprop="height" content="239"> <img
+data-attachment-id="569" data-orig-file="https://jasonleow.sg/wp-content/uploads/2018/05/Image-012.jpg" data-orig-size="1575,803" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="" data-image-description="" data-medium-file="https://jasonleow.sg/wp-content/uploads/2018/05/Image-012-300x153.jpg" data-large-file="https://jasonleow.sg/wp-content/uploads/2018/05/Image-012-1024x522.jpg" src="https://i0.wp.com/jasonleow.sg/wp-content/uploads/2018/05/Image-012.jpg?resize=469%2C239&#038;ssl=1" width="469" height="239" data-original-width="469" data-original-height="239" itemprop="http://schema.org/image" title="" alt="WorkScout" style="width: 469px; height: 239px;" /><div
+class="tiled-gallery-caption" itemprop="caption description"> <a
+href="https://workscout.in/browse-jobs-without-map/" target="_blank">WorkScout</a></div></div><div
+class="tiled-gallery-item tiled-gallery-item-large" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><meta
+itemprop="width" content="469"><meta
+itemprop="height" content="235"> <img
+data-attachment-id="567" data-orig-file="https://jasonleow.sg/wp-content/uploads/2018/05/Image-009.jpg" data-orig-size="1573,787" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="" data-image-description="" data-medium-file="https://jasonleow.sg/wp-content/uploads/2018/05/Image-009-300x150.jpg" data-large-file="https://jasonleow.sg/wp-content/uploads/2018/05/Image-009-1024x512.jpg" src="https://i0.wp.com/jasonleow.sg/wp-content/uploads/2018/05/Image-009.jpg?resize=469%2C235&#038;ssl=1" width="469" height="235" data-original-width="469" data-original-height="235" itemprop="http://schema.org/image" title="" alt="Jobmonster" style="width: 469px; height: 235px;" /><div
+class="tiled-gallery-caption" itemprop="caption description"> <a
+href="http://wp.nootheme.com/jobmonster/jobs-listing-home/" target="_blank">Jobmonster</a></div></div></div></div><div
+class="gallery-row" style="width: 970px; height: 449px;" data-original-width="970" data-original-height="449" ><div
+class="gallery-group images-1" style="width: 624px; height: 449px;" data-original-width="624" data-original-height="449" ><div
+class="tiled-gallery-item tiled-gallery-item-large" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><meta
+itemprop="width" content="620"><meta
+itemprop="height" content="445"> <img
+data-attachment-id="566" data-orig-file="https://jasonleow.sg/wp-content/uploads/2018/05/Image-008.jpg" data-orig-size="1014,728" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="" data-image-description="" data-medium-file="https://jasonleow.sg/wp-content/uploads/2018/05/Image-008-300x215.jpg" data-large-file="https://jasonleow.sg/wp-content/uploads/2018/05/Image-008.jpg" src="https://i2.wp.com/jasonleow.sg/wp-content/uploads/2018/05/Image-008.jpg?resize=620%2C445&#038;ssl=1" width="620" height="445" data-original-width="620" data-original-height="445" itemprop="http://schema.org/image" title="" alt="JobRoller" style="width: 620px; height: 445px;" /><div
+class="tiled-gallery-caption" itemprop="caption description"> <a
+href="https://www.appthemes.com/themes/jobroller/?ref=rbhavesh" target="_blank">JobRoller</a></div></div></div><div
+class="gallery-group images-1" style="width: 346px; height: 449px;" data-original-width="346" data-original-height="449" ><div
+class="tiled-gallery-item tiled-gallery-item-large" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject"><meta
+itemprop="width" content="342"><meta
+itemprop="height" content="445"> <img
+data-attachment-id="568" data-orig-file="https://jasonleow.sg/wp-content/uploads/2018/05/Image-011.jpg" data-orig-size="1575,2054" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="" data-image-description="" data-medium-file="https://jasonleow.sg/wp-content/uploads/2018/05/Image-011-230x300.jpg" data-large-file="https://jasonleow.sg/wp-content/uploads/2018/05/Image-011-785x1024.jpg" src="https://i2.wp.com/jasonleow.sg/wp-content/uploads/2018/05/Image-011.jpg?resize=342%2C445&#038;ssl=1" width="342" height="445" data-original-width="342" data-original-height="445" itemprop="http://schema.org/image" title="" alt="Job Board" style="width: 342px; height: 445px;" /><div
+class="tiled-gallery-caption" itemprop="caption description"> <a
+href="http://demo.templatic.com/jobboard/" target="_blank">Job Board</a></div></div></div></div></div><p>&nbsp;</p><p>The IH community also provided some other great suggestions. I even got to speak to the product makers of some job board hosting platforms directly! So helpful!</p><p>In summary, the different tech options can be broadly categorised into:</p><p>&nbsp;</p><p><section
+class="stag-section stag-columns"><div
+class="stag-column stag-one-fourth"><a
+href="https://wordpress.org/" target="_blank" rel="noopener noreferrer">WORDPRESS</a></div> </section><section
+class="stag-section stag-columns"><div
+class="stag-column stag-three-fourth stag-column-last">Wordpress is what I know and had been my go-to solution for most of my MVPs to date. Easy, no-code set up and maintenance, all at the price of about US$50-60 for a theme. That&#8217;s a one-off payment, no recurring subscription fees to pay for. Minimal maintenance and I run/own it myself. In terms of cost and speed, it&#8217;s hard to beat. If there&#8217;s a downside, it would be that many advanced job board features are tied to the <a
+href="https://wpjobmanager.com/" target="_blank" rel="noopener noreferrer">WP Job Manager plugin</a>, which you have to pay monthly subscriptions for and where there&#8217;s no other free plugins providing the same functions (not even from the extensive WordPress plugin directory). You can&#8217;t have paid listings without paying, for instance. That means I can&#8217;t monetize without first bleeding money &#8211; major bummer. One way of getting around is hacking in your own payment forms/gateways. <a
+href="https://www.paypal.me/" target="_blank" rel="noopener noreferrer">Paypal.Me</a> is the easiest, simplest way to get payment. Paypal provides a unique link and you can send it to anyone or embed it on your site to get payment. Stripe has a better reputation than Paypal in my view (Paypal support is poor, and you hear horror stories of them freezing your account for no reason&#x1f628;), but unfortunately, Stripe don&#8217;t provide such a stand-alone service where you can just send a payment link. Many sites for making online forms also provide payment gateways via Stripe, so that&#8217;s a great alternative. <a
+href="https://www.typeform.com/" target="_blank" rel="noopener noreferrer">Typeform </a>has a great UI for one-off payments, while <a
+href="https://paperform.co/" target="_blank" rel="noopener noreferrer">Paperform </a>is great for recurring subscriptions. But pricey, starting at $30/month and $15/month respectively. Since my job board is just an MVP, I won&#8217;t know how much revenue it will generate, so I wanted something that allows me to set up payments for free, but can charge a small % for each payment. At small volume of transactions, it still makes financial sense. So between <a
+href="https://www.cognitoforms.com/" target="_blank" rel="noopener noreferrer">Cognito Forms</a> and <a
+href="https://www.jotform.com/" target="_blank" rel="noopener noreferrer">JotForm</a>, I chose the former. This mashup of WordPress+Cognito Forms is the next best way that&#8217;s cheap and easy to set up for my MVP.</div><div
+class="clear"></div> </section></p><p><section
+class="stag-section stag-columns"><div
+class="stag-column stag-one-fourth"><a
+href="https://www.producthunt.com/newsletter/824" target="_blank" rel="noopener noreferrer">SPREADSHEET-POWERED SITES</a></div> </section><section
+class="stag-section stag-columns"><div
+class="stag-column stag-three-fourth stag-column-last">There&#8217;s a whole category of dedicated website builders that allows someone who doesn&#8217;t know coding to build a database off a spreadsheet (like Google Sheets) and integrate it to a website that displays the data in a meaningful way. My personal favourite is <a
+href="https://www.sheet2site.com/" target="_blank" rel="noopener noreferrer">Sheet2Site</a>, made by indie maker <a
+href="https://twitter.com/andreyazimov?lang=en" target="_blank" rel="noopener noreferrer">Andrey Azimov</a>. It&#8217;s a super simple way to build a directory website from a Google spreadsheet, with little to no coding. Very nifty. I love how it opens up more possibilities and lowers the barriers for non-coders like me to create more complex websites. Other notable options are <a
+href="https://airtable.com/blocks" target="_blank" rel="noopener noreferrer">Airtable</a>, <a
+href="https://sheetsu.com/" target="_blank" rel="noopener noreferrer">Sheetsu</a>, <a
+href="http://tabledo.com" target="_blank" rel="noopener noreferrer">Tabledo</a>, <a
+href="https://sheetbase.net/" target="_blank" rel="noopener noreferrer">Sheetbase</a>. Only issue is that you&#8217;re pretty much tied to the platform. There&#8217;s some learning curve involved, and some coding might be necessary. These platforms usually come with paid monthly subscriptions, so things can get pricey quickly as you scale or need more features.</div><div
+class="clear"></div> </section></p><p><section
+class="stag-section stag-columns"><div
+class="stag-column stag-one-fourth">OPEN SOURCE SOFTWARE</div> </section><section
+class="stag-section stag-columns"><div
+class="stag-column stag-three-fourth stag-column-last"><a
+href="https://simplejobscript.com/" target="_blank" rel="noopener noreferrer">Simple Job Script</a> is one such example of open source job board software. Not too different from WordPress.org (which is also open source software), but they can come in different programming languages. Although it&#8217;s usually a one-time payment to use it, you need to be somewhat proficient with the programming language associated with the software. Definitely not a no-code solution.</div><div
+class="clear"></div> </section></p><p><section
+class="stag-section stag-columns"><div
+class="stag-column stag-one-fourth">MANAGED HOSTING</div> </section><section
+class="stag-section stag-columns"><div
+class="stag-column stag-three-fourth stag-column-last">With so many content websites running their own little job boards for their communities, I&#8217;m surprised how there isn&#8217;t many managed hosting options available out there. <a
+href="https://seeker.company" target="_blank" rel="noopener noreferrer">Seeker</a> is one such example, very basic features and free to set up at the moment. There&#8217;s also more polished options like <a
+href="https://www.smartjobboard.com" target="_blank" rel="noopener noreferrer">Smartjobboard </a>and <a
+href="https://www.jobboard.io" target="_blank" rel="noopener noreferrer">Jobboard.io</a>. Pricey monthly subscriptions to build an MVP off for sure, but there&#8217;s no need to worry about code, maintenance and bugs.</div><div
+class="clear"></div> </section></p><p>&nbsp;</p><h3>PRODUCT CONSIDERATIONS</h3><p>So is the idea of a job board MVP a good one? Let&#8217;s consider business viability, user desirability, technical feasibility and maker enjoyability:</p><div
+data-id="closed" class="stag-section stag-toggle stag-toggle--normal"><span
+class="stag-toggle-title">Business viability</span><div
+class="stag-toggle-inner"><div
+class="stag-toggle-content"></p><p><em><strong>Business viability:</strong></em></p><p><em>Is it easy to validate demand?</em> Yes. There&#8217;s two groups of users in this case &#8211; job seekers and employers. Validating demand from job seekers  will mean using web traffic analytics on #users, #pageviews, email signups. The Vault&#8217;s total 16.5k users and 3k returning users so far will help kickstart the job board via referral. Demand from employers will be easy to validate, via paid job posts. No better way when people have to vote with their money.</p><p><em>Do I see a clear way to monetize this?</em> Yes, via paid job posts. This is the first time I&#8217;m launching a product with a monetization mechanism in place, so it&#8217;ll be exciting to learn how it pans out.</p><p><em>Can I reach the target customer at scale?</em> At a small scale mostly. The ~400 email signups from Public Design Vault will be a start. I will also reach out to a few groups on Facebook, LinkedIn, and Slack again.</p><p></div></div></div><div
+data-id="closed" class="stag-section stag-toggle stag-toggle--normal"><span
+class="stag-toggle-title">User desirability</span><div
+class="stag-toggle-inner"><div
+class="stag-toggle-content"></p><p><em><strong>User desirability:</strong></em></p><p><em>Does it address a user need, solve a painpoint?</em> Yes. Job seekers and employers both don&#8217;t know where to look.</p><p><em>Does it fit in their work? Are they already using this in some form before you came in?</em> Yes. People still do the same search on their preferred job portals, though results might differ. Existing job boards (like <a
+href="https://designjobsboard.com" target="_blank" rel="noopener noreferrer">Design Job Boards</a>, <a
+href="https://remoteok.io/" target="_blank" rel="noopener noreferrer">Remote OK</a>) and <a
+href="https://productforthepeople.xyz/internet-of-public-service-jobs-27-05-2018-5c941df66802" target="_blank" rel="noopener noreferrer">job newsletters</a> for niche fields are indicative of how there&#8217;s a need for such sites.</p><p></div></div></div><div
+data-id="closed" class="stag-section stag-toggle stag-toggle--normal"><span
+class="stag-toggle-title">Technical feasibility</span><div
+class="stag-toggle-inner"><div
+class="stag-toggle-content"></p><p><em><strong>Technical feasibility:</strong></em></p><p><em>Can this MVP be done without code?</em> Yes. WordPress themes/plugins, or code templates from digital marketplaces, or on hosted platforms. Jobs will be filled in manually first, without the need for back-fill integrations or web scrapers.</p><p><em>It is possible to create an MVP within a month or less?</em> Yes, based on the above options. I wished I could code this within a month as I&#8217;d love to create a custom site from scratch, but it feels out of my league for now. For post-MVP version perhaps!</p><p></div></div></div><div
+data-id="closed" class="stag-section stag-toggle stag-toggle--normal"><span
+class="stag-toggle-title">Maker enjoyability</span><div
+class="stag-toggle-inner"><div
+class="stag-toggle-content"></p><p><em><strong>Maker enjoyability:</strong></em></p><p><em>Is this a fun idea for you personally?</em> For sure yes. I get to help my friends, and make some small money from it. I&#8217;m also enjoying building on this ecosystem of inter-connected products, from the directory site to a forum and a chat group, to now a job board. It&#8217;s fun and exciting to think ahead how this ecosystem can grow, and each product helping to add value and amplify another.</p><p><em>Does this align with your values, passion and purpose?</em> Yes. I&#8217;d always been dabbling in career/lifestyle design for myself and talking to people about it, so this feels like a small first step into exploring how all those personal experiments might contribute to the job board. I also believe people shouldn&#8217;t stay in jobs which are not inspiring to them, so this job board is aligned to helping those who feel that way overcome that. And design in government is definitely something I&#8217;m passionate in! It&#8217;s super interesting work, the field is only just starting, there still lots of social issues that could benefit from design, so there&#8217;s lots of room for people to join to make a difference.</div></div></div><p>&nbsp;</p><h3>FINAL DECISION?</h3><p>I was really tempted to use open source software this time, as the balance between cost, ownership and customization is good. To be really honest, I&#8217;m also curious to learn new things beyond WordPress. But I&#8217;m worried that it would take more than 1 month to figure out and set up. That&#8217;s the whole point of doing #1mvp1month. It&#8217;s tempting to dive into the making and creating, because I enjoy the craft, the process and the learning. But that&#8217;s what MVPs are supposed to counter! Limit commitment to (over-)coding/making before viability is ascertained. It takes discipline, especially when hands are itchy.</p><p>So eventually it&#8217;s WordPress (again!) for the MVP, with a plan and promise to myself to custom code it eventually, if it takes off.</p><p>&nbsp;</p><h3>MAKING THE JOB BOARD</h3><p>After all the research and product considerations, it&#8217;s time to finally make things!</p><p>First it needs a name. I thought of retaining the branding of &#8220;Public Design ______&#8221; since the past 2 MVPs had that prefix. But not sure how that would appeal to people, so I did a quick poll on the social feeds:</p><p><img
+class="alignleft wp-image-591 size-medium" src="https://jasonleow.sg/wp-content/uploads/2018/05/Image-006-300x173.jpg" alt="" width="300" height="173" srcset="https://jasonleow.sg/wp-content/uploads/2018/05/Image-006-300x173.jpg 300w, https://jasonleow.sg/wp-content/uploads/2018/05/Image-006.jpg 492w" sizes="(max-width: 300px) 100vw, 300px" /></p><p>ImpactGov was appealing too as it pointed towards the outcome and the impact one will get from the job. But since I wanted this product to be part of the ecosystem, it&#8217;ll help with kickstarting the job board&#8217;s street cred if they shared a common prefix. So Public Design Jobs it is. *side-note: I was told on Twitter that .jobs domains are not available for job boards. These domains are reserved for companies who want to create a job site for their own vacancies. After buying the domain on <a
+href="https://www.namecheap.com/" target="_blank" rel="noopener noreferrer">Namecheap</a>, I changed the DNS settings to the ones provided by my <a
+href="https://www.siteground.com/web-hosting.htm" target="_blank" rel="noopener noreferrer">Siteground </a>hosting. Thankfully my web hosting could host an unlimited number of websites, so that really helps in my #1mvp1month experiments.</p><p>Next comes buying the WordPress theme. Of all the different ones on Themeforest, I found <a
+href="https://themeforest.net/item/workscout-job-board-wordpress-theme/13591801" target="_blank" rel="noopener noreferrer">WorkScout</a> to be the one that fits my criteria of being clean, minimal and simple. At US$59, it&#8217;s really affordable and great for creating MVPs on a budget. After an easy installation of WordPress right within the Siteground admin page (no need to play around with FTP or text editors), the site is up, the theme installed and next up is curating a list of jobs to post on the site.</p><p><a
+href="https://twitter.com/Martin_Jordan/status/996771997723123714" target="_blank" rel="noopener noreferrer"><img
+class="alignright wp-image-594 size-full" src="https://jasonleow.sg/wp-content/uploads/2018/05/job-repost-gds-uk.jpg" alt="" width="605" height="657" srcset="https://jasonleow.sg/wp-content/uploads/2018/05/job-repost-gds-uk.jpg 605w, https://jasonleow.sg/wp-content/uploads/2018/05/job-repost-gds-uk-276x300.jpg 276w, https://jasonleow.sg/wp-content/uploads/2018/05/job-repost-gds-uk-500x543.jpg 500w, https://jasonleow.sg/wp-content/uploads/2018/05/job-repost-gds-uk-276x300@2x.jpg 552w" sizes="(max-width: 605px) 100vw, 605px" /></a></p><p>I signed up for job alerts and email newsletters from various sources to get notified whenever there&#8217;s a suitable job vacancy. I also come across job vacancies on Twitter and Facebook very often, so when I see one that&#8217;s design- or innovation-related for the public/social sector, I&#8217;ll simply ask if it&#8217;s ok for me to repost it. I was initially scared of being rejected but it&#8217;s amazing how everyone had been super generous and fine with it! There&#8217;s some job vacancies which I&#8217;m stoked to help out with, because I&#8217;m a big fan of their work and mission, for example the <a
+href="https://gds.blog.gov.uk/" target="_blank" rel="noopener noreferrer">Government Digital Service</a> team at Gov.UK, and <a
+href="https://www.nesta.org.uk/jobs/" target="_blank" rel="noopener noreferrer">Nesta</a>. It&#8217;s also great fun helping my friends working in the same space with their hires.</p><p>There&#8217;s so much work that&#8217;s available, so many public and social issues that needs help from designers and innovative individuals. The more hands on deck, the better! Helping to grow the field in my own little way through this job board is my way of giving back and to further the mission I care about.</p><p>&nbsp;</p><h3></h3><h3>WHAT I LEARNED, POST-LAUNCH</h3><p><span
+class="stag-dropcap stag-dropcap--normal" style="font-size:50px;line-height:50px;width:50px;height:50px;">1</span> A botched launch really sours the mood and spoils the momentum. I believed the rumours about launching 2h before 12 midnight PST on Product Hunt, thinking that that might give me a headstart on upvotes. NOOOOO. Don&#8217;t believe any of that BS. You launch before midnight and your product gets moved to Yesterday&#8217;s list. That greatly reduces your potential visibility. Maybe your product is so awesome that even that doesn&#8217;t hold it back. Great for you. But not the case for me.  &#x1f62d; Really learned this the hard way.</p><p>&nbsp;</p><p><span
+class="stag-dropcap stag-dropcap--normal" style="font-size:50px;line-height:50px;width:50px;height:50px;">2</span> The good thing about a job board is that there&#8217;s always new content every week (new jobs posted every week), and hence recurring opportunities to keep engaging with my target audience. While it&#8217;s a relatively hard work to keep a lookout for new jobs all the time, this is balanced out by the rewards of being able to always be launching, always marketing and sharing something useful with users. I find this aspect of being able to grow an organic audience slowly and steadily the saving grace for my botched launch. And a good reminder that I can also do this with my other MVPs. Always be shipping and launching, to continually keep users engaged and refreshed. <strong>#notetoself</strong></p><p>&nbsp;</p><p><span
+class="stag-dropcap stag-dropcap--normal" style="font-size:50px;line-height:50px;width:50px;height:50px;">3</span> Maintaining a job board is hard work, especially when I&#8217;m still manually scraping and adding jobs. OK, not <em>that</em> hard. It&#8217;s like maybe 2-3h work on a Sunday afternoon. The thing is there isn&#8217;t that many design+gov jobs out there (or maybe my sources are limited), and the manual way seems to still make sense, for now. I&#8217;m looking forward to finding ways to automate this in the future, perhaps using APIs from job aggregator sites like Indeed.</p><p>&nbsp;</p><h3>SO, WHAT DO YOU THINK?</h3><p>So <a
+href="https://publicdesignjobs.com/" target="_blank" rel="noopener noreferrer">Public Design Jobs</a> is now live. I&#8217;d love to hear if this is useful for you, why or why not? Honest feedback is how I like to take it, so just give it to me! 😛</p><p>Track my #1mvp1month quest on <a
+href="https://www.facebook.com/pleasegetjason" target="_blank" rel="noopener noreferrer">Facebook</a>, <a
+href="https://twitter.com/jasonleowsg" target="_blank" rel="noopener noreferrer">Twitter</a>, <a
+href="https://www.linkedin.com/in/jason-leow-9a4b392a/" target="_blank" rel="noopener noreferrer">LinkedIn</a> or <a
+href="https://t.me/follow1mvp1month" target="_blank" rel="noopener noreferrer">Telegram</a>.</p><p>In gratitude to Phil for the mission-based jobs idea, and being open to experimenting with job posts. Grateful to Sheriza for the copywriting idea of the jaded designer.</p><p>&nbsp;</p><hr
+class="stag-divider stag-divider--plain" /><h3></h3><p>&nbsp;</p><h3>ALL ABOUT PUBLIC DESIGN JOBS</h3><p>Public Design Jobs is a mission-based job board for design and innovation jobs in the public sector, worldwide. I created Public Design Jobs to help people discover career and job opportunities at the intersection of design and the public good.</p><p>&nbsp;</p><h3>WHO IS PUBLIC DESIGN JOBS FOR</h3><p>This job board is great for designers, innovation professionals, policy-makers, public servants, social work executives who might be open to design- or innovation-related job opportunities in the public or social sectors. Passive job seekers can discover new careers available in the market, while active job seekers can find new jobs to apply for every week. The missions tagged to jobs also allow job seekers to find careers aligned to social missions that they care about.</p></div><footer
+class="entry-meta"><div
+class="inner-block"><span
+class="tags-links"><span
+class="tags-label">Tags:</span> <a
+href="https://jasonleow.sg/tag/1mvp1month/" rel="tag">1mvp1month</a>, <a
+href="https://jasonleow.sg/tag/careers/" rel="tag">careers</a>, <a
+href="https://jasonleow.sg/tag/design/" rel="tag">design</a>, <a
+href="https://jasonleow.sg/tag/jobs/" rel="tag">jobs</a>, <a
+href="https://jasonleow.sg/tag/public-good-startup/" rel="tag">public good startup</a></span></div>	</footer>
+</article><nav
+class="navigation post-navigation" role="navigation"><h1 class="screen-reader-text">Post navigation</h1><div
+class="nav-links"><div
+class="nav-previous nav-link"><a
+href="https://jasonleow.sg/448/choose-platform-community/" rel="prev"><span
+class="meta-nav">Previous Post</span> How to choose a platform for your community</a></div><div
+class="nav-next nav-link"><a
+href="https://jasonleow.sg/601/recap-reflect-refresh/" rel="next"><span
+class="meta-nav">Next Post</span> Recap, reflect, refresh</a></div></div>
+</nav><div
+id="comments" class="comments-area"><h2 class="comments-title block-title">
+<span>
+2 comments			</span></h2><ul
+class="comment-list"><li
+class="comment even thread-even depth-1 show-avatar" id="li-comment-341">
+<article
+id="div-comment-341" class="comment-body"><div
+class="comment-author-wrap">
+<figure
+class="comment-avatar">
+<img
+alt='' src='https://secure.gravatar.com/avatar/700bf080abcce0335d3df35bb974bc6f?s=70&#038;d=mm&#038;r=g' srcset="https://secure.gravatar.com/avatar/700bf080abcce0335d3df35bb974bc6f?s=140&amp;d=mm&amp;r=g 2x" class='avatar avatar-70 photo' height='70' width='70' />				</figure><footer
+class="comment-meta">
+<cite
+class="comment-author"><a
+href="https://ahackersday.com" rel="external nofollow" class="url fn n">Stein Ove Helset</a></cite>
+<span
+class="comment-metadata">
+<a
+class="time-link" href="https://jasonleow.sg/545/creating-designgov-job-board/#comment-341">
+<time
+class="comment-published" datetime="2018-06-01T15:26:29+00:00" title="Friday, June 1, 2018, 3:26 pm">
+June 1, 2018							</time>
+</a>
+<span
+class="divider">&#47;</span> <span
+class="reply"><a
+rel='nofollow' class='comment-reply-link' href='https://jasonleow.sg/545/creating-designgov-job-board/?replytocom=341#respond' onclick='return addComment.moveForm( "div-comment-341", "341", "respond", "545" )' aria-label='Reply to Stein Ove Helset'>Reply</a></span>											</span></footer></div><div
+class="comment-content"><p>Nice and detailed post! Really inspiring. Would you like to do a interview at A Hacker&#8217;s Day?</p></div>
+</article><ul
+class="children"><li
+class="comment byuser comment-author-jason bypostauthor odd alt depth-2 show-avatar" id="li-comment-342">
+<article
+id="div-comment-342" class="comment-body"><div
+class="comment-author-wrap">
+<figure
+class="comment-avatar">
+<img
+alt='' src='https://secure.gravatar.com/avatar/8f91140ca8cce7cc2e6d5a2e3704a245?s=70&#038;d=mm&#038;r=g' srcset="https://secure.gravatar.com/avatar/8f91140ca8cce7cc2e6d5a2e3704a245?s=140&amp;d=mm&amp;r=g 2x" class='avatar avatar-70 photo' height='70' width='70' />				</figure><footer
+class="comment-meta">
+<cite
+class="comment-author">Jason<span
+class="post-author">(Author)</span></cite>
+<span
+class="comment-metadata">
+<a
+class="time-link" href="https://jasonleow.sg/545/creating-designgov-job-board/#comment-342">
+<time
+class="comment-published" datetime="2018-06-04T17:44:33+00:00" title="Monday, June 4, 2018, 5:44 pm">
+June 4, 2018							</time>
+</a>
+<span
+class="divider">&#47;</span> <span
+class="reply"><a
+rel='nofollow' class='comment-reply-link' href='https://jasonleow.sg/545/creating-designgov-job-board/?replytocom=342#respond' onclick='return addComment.moveForm( "div-comment-342", "342", "respond", "545" )' aria-label='Reply to Jason'>Reply</a></span>											</span></footer></div><div
+class="comment-content"><p>Sure! DM me at my Twitter handle @jasonleowsg</p></div>
+</article></li></ul></li></ul><div
+id="respond" class="comment-respond"><h3 id="reply-title" class="comment-reply-title"><span>Submit a comment</span> <small><a
+rel="nofollow" id="cancel-comment-reply-link" href="/545/creating-designgov-job-board/#respond" style="display:none;">Cancel reply</a></small></h3><form
+action="https://jasonleow.sg/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate><p
+class="comment-notes"><span
+id="email-notes">Your email address will not be published.</span> Required fields are marked <span
+class="required">*</span></p><p
+class="comment-form-comment"><label
+for="comment">Comment</label><textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" aria-required="true" required="required"></textarea></p><p
+class="comment-form-author"><label
+for="author">Name <span
+class="required">*</span></label> <input
+id="author" name="author" type="text" value="" size="30" maxlength="245" aria-required='true' required='required' /></p><p
+class="comment-form-email"><label
+for="email">Email <span
+class="required">*</span></label> <input
+id="email" name="email" type="email" value="" size="30" maxlength="100" aria-describedby="email-notes" aria-required='true' required='required' /></p><p
+class="comment-form-url"><label
+for="url">Website</label> <input
+id="url" name="url" type="url" value="" size="30" maxlength="200" /></p><p
+class="form-submit"><input
+name="submit" type="submit" id="submit" class="submit" value="Submit Comment" /> <input
+type='hidden' name='comment_post_ID' value='545' id='comment_post_ID' />
+<input
+type='hidden' name='comment_parent' id='comment_parent' value='0' /></p><p
+style="display: none;"><input
+type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="aef04d8258" /></p><p
+style="display: none;"><input
+type="hidden" id="ak_js" name="ak_js" value="23"/></p></form></div></div>
+</main></div></div><footer
+id="colophon" class="site-footer" role="contentinfo"><div
+class="inner-block"><div
+class="footer-text-container"><div
+class="footer-text"><p>© Copyright 2018 Jason Leow</p></div><ul
+class="footer-social-links"><li
+class="facebook">
+<a
+href="https://www.facebook.com/pleasegetjason" title="Facebook">
+<span
+class="genericon genericon-facebook"></span>
+</a></li><li
+class="twitter">
+<a
+href="https://twitter.com/jasonleowsg" title="Twitter">
+<span
+class="genericon genericon-twitter"></span>
+</a></li><li
+class="linkedin">
+<a
+href="https://sg.linkedin.com/pub/jason-leow/2a/b39/9a4" title="LinkedIn">
+<span
+class="genericon genericon-linkedin"></span>
+</a></li><li
+class="instagram">
+<a
+href="http://instagram.com/jasonleow" title="Instagram">
+<span
+class="genericon genericon-instagram"></span>
+</a></li><li
+class="email">
+<a
+href="mailto:&#106;&#097;&#115;on&#064;j&#097;son&#108;&#101;&#111;w&#046;&#115;g" title="Email">
+<span
+class="genericon genericon-mail"></span>
+</a></li><li
+class="rss">
+<a
+href="https://t.me/jasonleowsg" title="RSS">
+<span
+class="genericon genericon-feed"></span>
+</a></li></ul></div></div>
+</footer></div><div
+style="display:none"><div
+class="grofile-hash-map-700bf080abcce0335d3df35bb974bc6f"></div><div
+class="grofile-hash-map-8f91140ca8cce7cc2e6d5a2e3704a245"></div></div> <script type="text/javascript" src="https://jasonleow.sg/wp-content/cache/minify/5b374.js"></script> <!--[if lte IE 8]><link
+rel='stylesheet' id='jetpack-carousel-ie8fix-css'  href='https://jasonleow.sg/wp-content/plugins/jetpack/modules/carousel/jetpack-carousel-ie8fix.css?ver=20121024' type='text/css' media='all' />
+<![endif]--> <script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201843'></script> <script type='text/javascript'>/*  */
+var sta_settings = {"distance":"50","speed":"500","exceptions":""};
+/*  */</script> <script type="text/javascript" src="https://jasonleow.sg/wp-content/cache/minify/91e72.js"></script> <script type='text/javascript' src='https://secure.gravatar.com/js/gprofiles.js?ver=2018Octaa'></script> <script type='text/javascript'>/*  */
+var WPGroHo = {"my_hash":""};
+/*  */</script> <script type="text/javascript" src="https://jasonleow.sg/wp-content/cache/minify/a5344.js"></script> <script type='text/javascript'>/*  */
+var blinkFitVids = {"selectors":"iframe[src*='www.viddler.com'],iframe[src*='money.cnn.com'],iframe[src*='www.educreations.com'],iframe[src*='\/\/blip.tv'],iframe[src*='\/\/embed.ted.com'],iframe[src*='\/\/www.hulu.com']"};
+/*  */</script> <script type="text/javascript" src="https://jasonleow.sg/wp-content/cache/minify/0e676.js"></script> <script type='text/javascript'>/*<![CDATA[*//*  */
+var jetpackCarouselStrings = {"widths":[370,700,1000,1200,1400,2000],"is_logged_in":"","lang":"en","ajaxurl":"https:\/\/jasonleow.sg\/wp-admin\/admin-ajax.php","nonce":"830f8872a7","display_exif":"1","display_geo":"1","background_color":"black","comment":"Comment","post_comment":"Post Comment","write_comment":"Write a Comment...","loading_comments":"Loading Comments...","download_original":"View full size <span class=\"photo-size\">{0}<span class=\"photo-size-times\">\u00d7<\/span>{1}<\/span>","no_comment_text":"Please be sure to submit some text with your comment.","no_comment_email":"Please provide an email address to comment.","no_comment_author":"Please provide your name to comment.","comment_post_error":"Sorry, but there was an error posting your comment. Please try again later.","comment_approved":"Your comment was approved.","comment_unapproved":"Your comment is in moderation.","camera":"Camera","aperture":"Aperture","shutter_speed":"Shutter Speed","focal_length":"Focal Length","comment_registration":"0","require_name_email":"1","login_url":"https:\/\/jasonleow.sg\/wp-login.php?redirect_to=https%3A%2F%2Fjasonleow.sg%2F545%2Fcreating-designgov-job-board%2F","local_comments_commenting_as":"<fieldset><label for=\"email\">Email (Required)<\/label> <input type=\"text\" name=\"email\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-email-field\" \/><\/fieldset><fieldset><label for=\"author\">Name (Required)<\/label> <input type=\"text\" name=\"author\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-author-field\" \/><\/fieldset><fieldset><label for=\"url\">Website<\/label> <input type=\"text\" name=\"url\" class=\"jp-carousel-comment-form-field jp-carousel-comment-form-text-field\" id=\"jp-carousel-comment-form-url-field\" \/><\/fieldset>"};
+/*  *//*]]>*/</script> <script type="text/javascript" src="https://jasonleow.sg/wp-content/cache/minify/397cf.js"></script> <script type='text/javascript' src='https://stats.wp.com/e-201843.js' async defer></script> <script type='text/javascript'>_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:4.4.2',blog:'82564458',post:'545',tz:'8',srv:'jasonleow.sg'} ]);
+	_stq.push([ 'clickTrackerInit', '82564458', '545' ]);</script> </body></html>

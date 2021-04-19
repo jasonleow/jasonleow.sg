@@ -1,0 +1,327 @@
+<!DOCTYPE html><html
+lang="en-US" prefix="og: http://ogp.me/ns#"><head><link
+rel="stylesheet" type="text/css" href="https://jasonleow.sg/wp-content/cache/minify/88bc4.css" media="all" /><meta
+charset="UTF-8"><meta
+name="viewport" content="width=device-width, initial-scale=1"><link
+rel="profile" href="http://gmpg.org/xfn/11"><link
+rel="pingback" href="https://jasonleow.sg/xmlrpc.php"><title>Public Design Vault - jason</title><meta
+name="description" content="For my 2nd MVP, I&#039;m launching Public Design Vault, a curated directory of 500+ design tools and resources for public good. My 1st MVP Outsprint Store was about selling and sharing design tools for public good that I made myself, while Public Design Vault is about curating tools that others had made and putting them all in one place. This is in line with my passion and purpose of making products at the intersection of design, social/public issues and entrepreneurship."/><meta
+name="robots" content="noodp"/><link
+rel="canonical" href="https://jasonleow.sg/377/public-design-vault/" /><meta
+property="og:locale" content="en_US" /><meta
+property="og:type" content="article" /><meta
+property="og:title" content="Public Design Vault - jason" /><meta
+property="og:description" content="For my 2nd MVP, I&#039;m launching Public Design Vault, a curated directory of 500+ design tools and resources for public good. My 1st MVP Outsprint Store was about selling and sharing design tools for public good that I made myself, while Public Design Vault is about curating tools that others had made and putting them all in one place. This is in line with my passion and purpose of making products at the intersection of design, social/public issues and entrepreneurship." /><meta
+property="og:url" content="https://jasonleow.sg/377/public-design-vault/" /><meta
+property="og:site_name" content="jason" /><meta
+property="article:tag" content="1mvp1month" /><meta
+property="article:tag" content="design thinking" /><meta
+property="article:tag" content="public good startup" /><meta
+property="article:section" content="Portfolio" /><meta
+property="article:published_time" content="2018-03-29T18:15:34+08:00" /><meta
+property="article:modified_time" content="2018-03-31T10:03:17+08:00" /><meta
+property="og:updated_time" content="2018-03-31T10:03:17+08:00" /><meta
+property="og:image" content="https://jasonleow.sg/wp-content/uploads/2018/03/blog-header-image.jpg" /><meta
+property="og:image:width" content="2100" /><meta
+property="og:image:height" content="1402" /><link
+rel='dns-prefetch' href='//s0.wp.com' /><link
+rel='dns-prefetch' href='//secure.gravatar.com' /><link
+rel='dns-prefetch' href='//fonts.googleapis.com' /><link
+rel='dns-prefetch' href='//s.w.org' /><link
+rel="alternate" type="application/rss+xml" title="jason &raquo; Feed" href="https://jasonleow.sg/feed/" /><link
+rel="alternate" type="application/rss+xml" title="jason &raquo; Comments Feed" href="https://jasonleow.sg/comments/feed/" /><link
+rel="alternate" type="application/rss+xml" title="jason &raquo; Public Design Vault Comments Feed" href="https://jasonleow.sg/377/public-design-vault/feed/" /> <script type="text/javascript">/*<![CDATA[*/window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/jasonleow.sg\/wp-includes\/js\/wp-emoji-release.min.js?ver=e14bdd0cd7d8941c17be4cc3b70aef3b"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);/*]]>*/</script> <style type="text/css">img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}</style><link
+rel='stylesheet' id='blink-google-fonts-css'  href='//fonts.googleapis.com/css?family=Montserrat%3Aregular%2C700%7CPT+Serif%3Aregular%2Citalic%2C700%26subset%3Dlatin%2Clatin&#038;ver=1.0.2' type='text/css' media='all' /> <script type="text/javascript">(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+		(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+		m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','//www.google-analytics.com/analytics.js','__gaTracker');
+
+	__gaTracker('create', 'UA-58446552-1', 'auto');
+	__gaTracker('set', 'forceSSL', true);
+	__gaTracker('require', 'displayfeatures');
+	__gaTracker('send','pageview');</script>  <script type="text/javascript" src="https://jasonleow.sg/wp-content/cache/minify/ef6c2.js"></script> <link
+rel='https://api.w.org/' href='https://jasonleow.sg/wp-json/' /><link
+rel="EditURI" type="application/rsd+xml" title="RSD" href="https://jasonleow.sg/xmlrpc.php?rsd" /><link
+rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://jasonleow.sg/wp-includes/wlwmanifest.xml" /><link
+rel='shortlink' href='https://wp.me/p5AqMO-65' /><link
+rel="alternate" type="application/json+oembed" href="https://jasonleow.sg/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fjasonleow.sg%2F377%2Fpublic-design-vault%2F" /><link
+rel="alternate" type="text/xml+oembed" href="https://jasonleow.sg/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fjasonleow.sg%2F377%2Fpublic-design-vault%2F&#038;format=xml" /> <script type="text/javascript">/*<![CDATA[*/(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//jasonleow.sg/?wordfence_logHuman=1&hid=4B5A126C00474F336AC7D0FF181E1CA4');/*]]>*/</script> <link
+rel='dns-prefetch' href='//v0.wordpress.com'><style type='text/css'>img#wpstats{display:none}</style><style type="text/css" id="blink-custom-css">.post-377 .post-grid{background-image:url(https://jasonleow.sg/wp-content/uploads/2018/03/blog-header-image-1700x1135.jpg);}body.mce-content-body,.page-links span:not(.page-numbers),.block-title span:not(.page-numbers),.archive-title span:not(.page-numbers),.comments-area > .comment-respond .comment-reply-title span:not(.page-numbers){background-color:#ffffff;}.color-accent-text,a,#infinite-handle:hover span{color:#3dc9d8;}body,button,.button,input,select,textarea{color:#000000;}</style><link
+rel="icon" href="https://jasonleow.sg/wp-content/uploads/2015/01/site-logo-v2-512px-54b7d2fav1_site_icon-32x32.png" sizes="32x32" /><link
+rel="icon" href="https://jasonleow.sg/wp-content/uploads/2015/01/site-logo-v2-512px-54b7d2fav1_site_icon-256x256.png" sizes="192x192" /><link
+rel="apple-touch-icon-precomposed" href="https://jasonleow.sg/wp-content/uploads/2015/01/site-logo-v2-512px-54b7d2fav1_site_icon-256x256.png" /><meta
+name="msapplication-TileImage" content="https://jasonleow.sg/wp-content/uploads/2015/01/site-logo-v2-512px-54b7d2fav1_site_icon.png" /><style type="text/css" id="wp-custom-css">/*
+Welcome to Custom CSS!
+
+CSS (Cascading Style Sheets) is a kind of code that tells the browser how
+to render a web page. You may delete these comments and get started with
+your customizations.
+
+By default, your stylesheet will be loaded after the theme stylesheets,
+which means that your rules can take precedence and override the theme CSS
+rules. Just write here what you want to change, you don't need to copy all
+your theme's stylesheet content.
+*/
+.entry-footer .comments-link {
+	display: none;
+}
+
+.site {
+	display: block !important;
+}
+
+/*
+.page-cover .entry-footer {
+	display: none;
+}
+*/</style></head><body
+class="post-template-default single single-post postid-377 single-format-standard stagtools"><div
+id="page" class="hfeed site">
+<a
+class="skip-link screen-reader-text" href="#content">Skip to content</a><header
+id="masthead" class="site-header" role="banner"><div
+class="inner-block"><div
+class="site-branding"><h1 class="site-title">
+<a
+href="https://jasonleow.sg/" rel="home">
+jason							</a></h1>
+<span
+class="site-description">
+design ✏️ + public good &#x1f3db; + indie maker &#x1f680; + mindfulness ⛩						</span></div><button
+id="menu-toggle" class="menu-toggle">
+<span
+class="menu-toggle__label">Menu</span>
+<span
+class="genericon genericon-menu"></span>
+</button><nav
+id="site-navigation" class="main-navigation" role="navigation"><ul
+id="menu-menu-1" class="primary-menu"><li
+id="menu-item-10" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-10"><a
+href="https://jasonleow.sg/">Home</a></li><li
+id="menu-item-11" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-11"><a
+href="https://jasonleow.sg/bio/">Bio</a></li><li
+id="menu-item-125" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-125"><a
+href="https://jasonleow.sg/category/portfolio/">My work</a></li><li
+id="menu-item-30" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30"><a
+href="https://jasonleow.sg/contact/">Contact</a></li></ul>			</nav></div>
+</header><div
+id="content" class="site-content"><div
+id="primary" class="content-area">
+<main
+id="main" class="site-main" role="main">
+<article
+id="post-377" class="post-377 post type-post status-publish format-standard has-post-thumbnail hentry category-portfolio category-public-good category-startups category-work tag-1mvp1month tag-design-thinking tag-public-good-startup">
+<section
+class="post-cover post-grid"><div
+class="overlay"></div><div
+class="post-cover-inside"><div
+class="text-container post-cover-content">
+<header
+class="entry-header"><h1 class="entry-title"><span
+class="entry-title-primary">Public Design Vault</span> <span
+class="entry-subtitle">My 2nd MVP for #1mvp1month - a curated directory of 500+ design tools for public good</span></h1>			</header><footer
+class="entry-footer">
+<span
+class="posted-on">Published <a
+href="https://jasonleow.sg/377/public-design-vault/" rel="bookmark"><time
+class="entry-date published" datetime="2018-03-29T18:15:34+00:00">29 March 2018</time><time
+class="updated" datetime="2018-03-31T10:03:17+00:00">31 March 2018</time></a></span><span
+class="byline"> by <span
+class="author vcard"><a
+class="url fn n" href="https://jasonleow.sg/author/jason/">Jason</a></span></span>
+<span
+class="cat-links">in <a
+href="https://jasonleow.sg/category/portfolio/" rel="category tag">Portfolio</a>, <a
+href="https://jasonleow.sg/category/public-good/" rel="category tag">Public good</a>, <a
+href="https://jasonleow.sg/category/startups/" rel="category tag">Startups</a>, <a
+href="https://jasonleow.sg/category/work/" rel="category tag">Work</a></span><div><span
+class="comments-link"><a
+href="https://jasonleow.sg/377/public-design-vault/#respond">Leave a comment</a></span></div>			</footer></div></div>
+</section><div
+class="entry-content"><h3>BACKSTORY</h3><p>I’m tired of myself talking about making products but never. So I’m committing to make <a
+href="https://jasonleow.sg/310/1mvp1month/" target="_blank" rel="noopener noreferrer">1 minimum viable product per month</a>, starting Feb 2018. I’ll keep going till I run out of ideas or money, or something takes off in a huge way that requires all my time, or exhaustion kicks in. Whichever comes first. <a
+href="https://twitter.com/search?f=tweets&amp;q=%231mvp1month&amp;src=typd" target="_blank" rel="noopener noreferrer"><strong>#1mvp1month</strong></a></p><p>For my 2nd MVP, I&#8217;m launching <a
+href="https://publicdesignvault.com" target="_blank" rel="noopener noreferrer">Public Design Vault</a>, a curated directory of 500+ design tools and resources for public good. My 1st MVP <a
+href="https://store.outsprint.io" target="_blank" rel="noopener noreferrer">Outsprint Store</a> was about selling and sharing design tools for public good <em>that I made myself</em>, while Public Design Vault is about curating tools that others had made and putting them all in one place. This is in line with my passion and purpose of making products at the intersection of design, social/public issues and entrepreneurship.</p><p>&nbsp;</p><h3>WHAT&#8217;S THE PROBLEM &amp; OPPORTUNITY?</h3><p>Why make Public Design Vault?</p><p>As a designer myself, I often fall back on the usual suspects of tools and methods when working on projects with my clients (mostly government organisations). While it&#8217;s great for expediency and quality, things can feel pretty stagnant after a while. I realised that I&#8217;m also missing out on new learning opportunities of best practices available out there if I always keep to a tried and tested approach. Yet it takes too much effort to seek out new inspiration from so many sources scattered across the vast universe of the internet. The last thing you want to do when on a tight project timeline is to get lost in the internet time sink!</p><p><em>What if there was this one-stop place online where I can just do a quick scan of the array of tools available for the design phase that I&#8217;m in?</em> This site is as much as for myself as for others in my situation &#8211; to help me easily find new inspiration on tools for my project, and ultimately, be a better design thinker. The good thing about this site is that these resources are not restricted to experienced practitioners. Folks who are new to design thinking will probably find this even more useful!</p><p>There&#8217;s also a larger-picture benefit of making this site, from a more systems change perspective. If design-led innovation in the public sector is to be supported and its practice made more commonplace, then folks working in government will need the right capabilities and mindsets. That&#8217;s where toolkits come in &#8211; they help people know what capabilities and mindsets are needed and how to deepen practice in them in order to implement new ways to achieve social impact. Having an all-in-one directory helps lower the barriers to entry especially for public officers who are just starting out.</p><p>&nbsp;</p><h3>WHAT&#8217;S THE BIG IDEA?</h3><p>The seed of the idea for Public Design Vault came when I made Outsprint Store. I thought it might be useful to share links to other awesome tools that other had made, besides the ones I made to sell on the store. So I curated a handful that&#8217;s <a
+href="https://store.outsprint.io/made-by-others/" target="_blank" rel="noopener noreferrer">Made By Others</a>.</p>
+<figure
+class="stag-section stag-image stag-image--no-filter stag-image--center"><a
+href="https://store.outsprint.io/made-by-others/"><img
+src="https://jasonleow.sg/wp-content/uploads/2018/03/Made-By-Others-page-on-Outsprint-Store.jpg" alt=""></a></figure><p>Someone gave me feedback that went like this &#8220;Interesting idea to pull different tools, resources and perhaps even books and digital products into one place. I like the concept. It&#8217;s not clear at the moment what sorts of challenges/problems the tools can help me solve, and then what sorts of outcomes might arise.&#8221;</p><p>That made me sit up and ask if this was a worthwhile idea to pursue, so I posted a quick survey at the bottom of the page to ask users:</p>
+<figure
+class="stag-section stag-image stag-image--no-filter stag-image--center"><a
+href="https://outsprint.typeform.com/to/BrSHFZ"><img
+src="https://jasonleow.sg/wp-content/uploads/2018/03/pssst.jpg" alt=""></a></figure><p>Talking to @<a
+href="https://twitter.com/marckohlbrugge/status/970908668156813313" target="_blank" rel="noopener noreferrer">marckohlbrugge</a> on Twitter about #1mvp1month, he said if I had too many ideas, I might want to be more selective and ask myself these questions:</p><ul><li>Is it easy to validate demand for this idea?</li><li>Do I see a clear way to monetize this?</li><li>Can I reach the target customer at scale?</li></ul><p>The questions more or less reflect the decision framework I was using:</p>
+<figure
+class="stag-section stag-image stag-image--no-filter stag-image--center"><a
+href="https://www.weforum.org/agenda/2017/08/is-this-japanese-concept-the-secret-to-a-long-life/"><img
+src="https://jasonleow.sg/wp-content/uploads/2018/02/ikigaidesirability-framework.png" alt=""></a></figure><p>So, to make it more scientific, let&#8217;s consider:</p><p><em><strong>Business viability: </strong></em></p><p><em>Is it easy to validate demand?</em> Yes, using web traffic analytics on #visitors, #pageviews, and time spent on site. So far, the <a
+href="https://jasonleow.sg/wp-content/uploads/2018/03/public_design_vault.png" target="_blank" rel="noopener noreferrer">pre-launch landing page</a> garnered ~300 email signups and over 1000 pageviews. Very encouraging.</p><p><em>Do I see a clear way to monetize this?</em> Mostly yes. Learning from other content-first sites (e.g. <a
+href="http://startupstash.com/" target="_blank" rel="noopener noreferrer">Startup Stash</a>, <a
+href="http://nomadlist.com" target="_blank" rel="noopener noreferrer">Nomadlist</a>), some revenue is likely to come from ads and paid features. I&#8217;m already talking to some design agencies to see if they would like to experiment and post (for free for now) their job ads on the site. To be honest, I struggled with the idea of monetizing this site, since it&#8217;s a social mission product and I feel that ads tend to put people off. But there&#8217;s no way to maintain it without at least *some* revenue, much less to say develop new features for it &#8211; I need to make a living too as an indie maker. The key here is balance &#8211; only relevant and useful ads for the target audience, not some ugly irrelevant Adsense BS. I&#8217;m also added a Buy Me A Coffee patronage button as an experiment &#8211; let&#8217;s see if that works out. Further down the road, definitely thinking of spinning off new features and products that can monetize some more.</p><p><em>Can I reach the target customer at scale?</em> Somewhat difficult but not impossible. The thing is, everyone&#8217;s all over the place &#8211; some active groups on service design on Slack, innovation hacking on Facebook, some design thinking groups on Linkedin, some inactive subreddits, personalities on Twitter. There&#8217;s very few community channels that are dedicated to design + public good exclusively, where everyone hangs out. I can still reach most, but with much effort. But the good side to this is that I discovered a new gap. 💡 &#x1f60e;</p><p>&nbsp;</p><p><em><strong>User desirability:</strong></em></p><p><em>Does it address a user need, solve a painpoint?</em> Yes. Painful to find resources across too many sources on the internet, hard to discover unknown unknowns via Google. Having too many options invariably creates a need for curation. Also a &#8216;meta-toolkit&#8217; will support the larger design thinking movement within the sector.</p><p><em>Does it fit in their work? Are they already using this in some form before you came in?</em> Yes yes yes! Since the pre-launch, I had so many people message me saying that they had been thinking of doing something similar. And many design thinkers I know had at some point created a list of links or a folder of template documents somewhere. Such work-arounds and self-initiated tools are usually a good indication that people are already trying to address an unarticulated need, something they never (consciously) knew they needed.</p><p>&nbsp;</p><p><em><strong>Technical feasibility:</strong></em></p><p><em>Can this MVP be done without code?</em> Yes. While I would love to code something from scratch by myself, I&#8217;m still learning the basics of HTML, CSS etc, so I won&#8217;t have enough competency or time yet to code something within a month. Researching on other similar sites, I observed that many had used off-the-shelf themes or templates to get the MVP up and running. A <a
+href="https://themeforest.net/search/directory?as=0&amp;referrer=homepage&amp;utf8=%E2%9C%93" target="_blank" rel="noopener noreferrer">search on Themeforest</a> shows over 500 of such templates available for around US$60 each &#8211; very affordable and quick way to get something minimum up.  I can always code for future versions.</p><p><em>It is possible to create an MVP within a month or less?</em> Yes. Based on previous experience working with WordPress CMS and themes, it&#8217;s possible. So far, I had spent 2 weeks of focused effort on the site.</p><p>&nbsp;</p><p><em><strong>Maker enjoyability:</strong></em></p><p><em>Is this a fun idea for you personally?</em> Yes! I can&#8217;t remember when it started but for as long as I remember since I first got access to the internet, I had been collecting and curating links. I have over 14k emails in my inbox, and I&#8217;m sure ~80% are links I emailed myself and newsletters I signed up for. I collect articles as well on Flipboard for my <a
+href="https://flipboard.com/@jasonleow/design-for-public-good-93iuvqpvz" target="_blank" rel="noopener noreferrer">Design For Public Good magazine</a> &#8211; it had so far accumulated over 1200 links, with ~2300 followers and 12k viewers. So this is something I do on a daily basis, for fun, for self-learning, for life.</p><p><em>Does this align with your values, passion and purpose?</em> Yes. I want to help others. I want to make a difference to the world. I think this does. It also aligns with what I&#8217;m passionate about in my work &#8211; blending design with public good, fueled by the resourcefulness and drive of indie maker entrepreneurship.</p><p>&nbsp;</p><h3>HOW I MADE IT</h3><p>So the objective was a no-code MVP, in less than a month.</p><p>I first hunted around for what others were doing, and got inspired by what <a
+href="https://twitter.com/bramk" target="_blank" rel="noopener noreferrer">Bram Kanstein</a> did with <a
+href="http://startupstash.com" target="_blank" rel="noopener noreferrer">Startup Stash</a> &#8211; he basically <a
+href="https://medium.com/@bramk/how-i-accidentally-revived-the-startpage-directory-website-2d4541898fd9" target="_blank" rel="noopener noreferrer">revived a whole movement on startpage directories</a> in the likes of Yahoo and MSN back in the day. Following his success (#1 Product of Feb 2015 on Product Hunt, over 14k upvotes so far, over 500k unique visitors), all manner of other stashes and stacks came up.</p>
+<figure
+class="stag-section stag-image stag-image--no-filter stag-image--center"><a
+href="https://medium.com/@bramk/how-i-accidentally-revived-the-startpage-directory-website-2d4541898fd9"><img
+src="https://cdn-images-1.medium.com/max/2000/1*GYVhl3eQFzVcIhf91nVrWA.png" alt=""></a></figure><p>From these stash sites, I peeked around if they used any template themes and sure enough, many used it. I also shopped around for WordPress themes on Themeforest, but many were designed for property listings, with maps-based layouts more suited for showing locations, less for links and articles. The best theme was the <a
+href="https://chipmunktheme.com/" target="_blank" rel="noopener noreferrer">Chipmunk </a>theme, which again was inspired by the Startup Stash movement and &#8220;tailored to meet the increased demand for curated content. Carefully crafted with the user in mind, to aid in great content discovery.&#8221; Basically, built for Product Hunters! There couldn&#8217;t be a more suitable theme.</p><p>Next was buying a domain. But I didn&#8217;t know what to name it yet! So I did some polls on Twitter and Facebook &#8211; part of the whole objective of making my product in public and co-creating with friends and users.</p>
+<figure
+class="stag-section stag-image stag-image--no-filter stag-image--center"><img
+src="https://jasonleow.sg/wp-content/uploads/2018/03/fb-polls.jpg" alt=""></figure><p>&#8220;Design tools for public good&#8221; is the most straight-forward but too long as a site name. In the end, I borrowed ideas from the crowd and decided on &#8220;Public Design Vault&#8221;. &#8220;Public Design&#8221; being the shortest form possible to describe &#8220;design thinking and design-led innovation applied in the public sector&#8221;, and &#8220;Vault&#8221; as a metaphor for the treasures that it upkeeps and hold (an unlocked, open, public vault, that is!).  After buying the domain on <a
+href="https://www.namecheap.com/" target="_blank" rel="noopener noreferrer">Namecheap</a>, I linked it to my <a
+href="https://www.siteground.com/web-hosting.htm" target="_blank" rel="noopener noreferrer">Siteground </a>hosting. Thankfully my web hosting could host unlimited number of websites, so that really helps in my #1mvp1month experiments.</p><p>After an easy installation of WordPress right within the Siteground admin page (no more playing around with FTP or text editors), the site is up, the theme installed and next up is curating a list. I scoured my own lists and the internet, asked friends for their lists, and as one source led to ten other sources, the list just grew and grew and grew. Initially I thought it would be hard to get to 100, but I knew a lot more resources than I realised. At last count, I had over 800 links! I had to cut down the list further, and post only high quality resources, to finally get to 500+. Then gosh comes DATA ENTRY HELL &#x1f47f;&#x1f525; of keying in every individual resource one by one (there&#8217;s no CSV or spreadsheet uploading function available), screen-capturing every website, and writing short excerpts. I&#8217;d just became my own intern. Thankfully I only need to create them once.</p><p>&nbsp;</p><h3>WHAT I LEARNED</h3><p><span
+class="stag-dropcap stag-dropcap--normal" style="font-size:50px;line-height:50px;width:50px;height:50px;">1</span> Two weeks still feels kinda long for making a MVP, especially with the amount of data entry effort! I could have cut down on the number of resources needed for launch &#8211; 300 would have been pretty substantial for a start. But I had promised 500+ in the pre-launch, so the voice of integrity (or rather, the perfectionist) in me was against it. I could have been more measured on the quantity vs quality balance, and speak to users first before deciding on the number.</p><p>&nbsp;</p><p><span
+class="stag-dropcap stag-dropcap--normal" style="font-size:50px;line-height:50px;width:50px;height:50px;">2</span> Discovering new opportunities like how there&#8217;s very few community channels that are dedicated to design + public good exclusively. This could be the next spin-off! Forum? Chat group on Slack or Telegram? I love how new ideas arise and evolve organically into an ecosystem of products as you build and launch &#8211; that&#8217;s the whole point of shipping early, to get smart and learn quickly of what&#8217;s important and needed.</p><p>&nbsp;</p><p><span
+class="stag-dropcap stag-dropcap--normal" style="font-size:50px;line-height:50px;width:50px;height:50px;">3</span> This is my 2nd no-code MVP. Initially I was concerned if no-code was even possible.  But it seems to be working so far, and building on the shoulders of others, leveraging off-the-shelf solutions and remixing other SaaS products into a patchwork of your own had been crazy fun. Of course, this is just for starters, for a MVP. I can&#8217;t avoid code altogether forever, but at this stage before market demand is validated, no code is <em>good enough</em>. It feels encouraging too, that non-coding founders and indie makers can still build stuff on their own to be launched.</p><p>&nbsp;</p><p><span
+class="stag-dropcap stag-dropcap--normal" style="font-size:50px;line-height:50px;width:50px;height:50px;">4</span> Learning about where I need more room for growth. Launching and marketing is really not my strongest suit. I personally prefer to work and let what I built speak for me. Talking about myself and selling stuff feels very counter to the more introverted side of me. But I guess this is why I&#8217;m doing this whole #1mvp1month thing to start with &#8211; to learn and grow in areas where I suck. I learned (and still continuing to learn) that selling doesn&#8217;t have to be &#8216;dirty&#8217; (like telemarketing dirty just to be clear), and as long as I&#8217;m sharing genuinely from a place of learning, from a perspective of trying to benefit others on their own terms, it&#8217;s really okaaay.</p><p>&nbsp;</p><h3>SO, WHAT DO YOU THINK?</h3><p>So <a
+href="https://publicdesignvault.com" target="_blank" rel="noopener noreferrer">Public Design Vault</a> is now live. I&#8217;d love to hear if this is useful for you, why or why not? Honest feedback is how I like to take it, so just give it to me! 😛 &#x1f61c;</p><p>Track my #1mvp1month quest on <a
+href="https://www.facebook.com/pleasegetjason" target="_blank" rel="noopener noreferrer">Facebook</a>, <a
+href="https://twitter.com/jasonleowsg" target="_blank" rel="noopener noreferrer">Twitter</a>, or <a
+href="https://t.me/follow1mvp1month" target="_blank" rel="noopener noreferrer">Telegram</a>.</p><p>In gratitude to Philip Man for inspiring the idea, Alistair for the name, Leon for testing, Khai Seng for experimenting with me.</p><p>&nbsp;</p><hr
+class="stag-divider stag-divider--plain" /><p>&nbsp;</p><h3>All about Public Design Vault</h3><p><a
+href="https://publicdesignvault.com" target="_blank" rel="noopener noreferrer">Public Design Vault</a> is a curated directory of 500+ design tools &amp; resources for public good. It is an all-in-one, a full-stop one-stop, a mother list of lists, a singularity for the plethora of toolkits and rescources that are available on the vast internet. I had included all the well-known usual suspects but also tried to throw in a few diamonds in the rough.</p><p>&nbsp;</p><h3>Who is Public Design Vault for</h3><p>These resources are great for folks working at the intersection of human-centered design, innovation and public/social impact. You might be a:</p><ul><li>UX designer creating an app that serves vulnerable groups,</li><li>social worker planning programs for your local community,</li><li>manager of an in-house government design team,</li><li>organizational change expert trying to bring citizen-centered transformation to your workplace,</li><li>civil servant charged with driving public service innovation</li></ul><p>&nbsp;</p><h3>Who might find Public Design Vault useful</h3><p>You might find this site useful if:</p><ul><li>you&#8217;re new to design thinking and would like to apply it to your work</li><li>you&#8217;re starting out on a new project and want to explore new ways to approach it using design thinking</li><li>your existing service/program is not working, the numbers are not coming in and you need to inject a fresh perspective</li><li>prior to a workshop, you&#8217;re planning the structure and agenda for the workshop participants and could save time by adopting some templates</li><li>there&#8217;s new findings from your design research that requires you to explore new themes using different tools</li><li>you&#8217;re an experienced practitioner but want to stay inspired and keep updated on new best practices</li></ul><p>&nbsp;</p><h3>What do we mean by &#8220;design tools for public good&#8221;?</h3><p><em>Design:</em></p><ul><li>human-centered design</li><li>UX design</li><li>civic design</li><li>design thinking</li><li>design research</li><li>ethnographic research</li><li>behavioural design</li><li>can imply the entire design process or parts of it</li><li>can include design-related skills, mindsets or qualities, e.g. creativity, empathy</li><li>can include adjacent fields like ethnography, social innovation, behaviourial insights, lean startup</li></ul><p><em>Tool:</em></p><ul><li>online or offline</li><li>templates</li><li>sort cards</li><li>frameworks</li><li>apps</li><li>websites</li><li>blogs</li><li>toolkits</li><li>(e-)books</li><li>case studies</li><li>journal articles</li><li>magaizines</li><li>online articles/blog posts</li><li>slides/presentations (e.g. on Slideshare)</li><li>newsletters</li><li>reports</li><li>videos</li><li>interviews</li><li>podcasts</li><li>online courses</li></ul><p><em>Public good:</em></p><ul><li>the happy things that happen (aka social impact) when public/social issues are solved (e.g. poverty, traffic congestion, racism, healthcare)</li><li>mostly work that&#8217;s related to the public and people sector, governments, NGOs, charities and non-profit organisations</li></ul><p>&nbsp;</p><h3>DISCLAIMER ABOUT &#8216;OVER-TOOLIFICATION&#8217;</h3><p>A word from the community of global practitioners about putting tools in their place, within our design thinking practice. This was something that came up from discussions with fellow design thinking practitioners during the pre-launch. Some are concerned about the over emphasis on rigidly following tools and templates to the dot and forgetting that we need to allow for creative messiness and comfort with ambiguity to truly benefit from design thinking. There&#8217;s also the potential for situation-methodology mismatch if the tools are not properly explained in context.</p><p>I get the concerns. It&#8217;s something I observed in this field too. As design thinking gets more popular, there&#8217;s always a risk of commoditization and malpractice. I guess once it&#8217;s open source, we almost have to cede control over who uses the tools and how the tools are used, as much as we love to have some control over the narrative. But I&#8217;d like to stay optimistic about this, that maybe someone will apply it in some unusual but effective ways and we&#8217;ll all benefit from that learning as a community.</p><p>In short, please use the tools and resources here with a grain a salt. Everything in moderation, don&#8217;t apply too rigidly, and allow space for adapting flexibly to your situation and needs. And ask us for help (on the chatbox) if you need any!</p></div><footer
+class="entry-meta"><div
+class="inner-block"><span
+class="tags-links"><span
+class="tags-label">Tags:</span> <a
+href="https://jasonleow.sg/tag/1mvp1month/" rel="tag">1mvp1month</a>, <a
+href="https://jasonleow.sg/tag/design-thinking/" rel="tag">design thinking</a>, <a
+href="https://jasonleow.sg/tag/public-good-startup/" rel="tag">public good startup</a></span></div>	</footer>
+</article><nav
+class="navigation post-navigation" role="navigation"><h1 class="screen-reader-text">Post navigation</h1><div
+class="nav-links"><div
+class="nav-previous nav-link"><a
+href="https://jasonleow.sg/360/outsprint-store-first-mvp/" rel="prev"><span
+class="meta-nav">Previous Post</span> Outsprint Store</a></div><div
+class="nav-next nav-link"><a
+href="https://jasonleow.sg/448/choose-platform-community/" rel="next"><span
+class="meta-nav">Next Post</span> How to choose a platform for your community</a></div></div>
+</nav><div
+id="comments" class="comments-area"><div
+id="respond" class="comment-respond"><h3 id="reply-title" class="comment-reply-title"><span>Submit a comment</span> <small><a
+rel="nofollow" id="cancel-comment-reply-link" href="/377/public-design-vault/#respond" style="display:none;">Cancel reply</a></small></h3><form
+action="https://jasonleow.sg/wp-comments-post.php" method="post" id="commentform" class="comment-form" novalidate><p
+class="comment-notes"><span
+id="email-notes">Your email address will not be published.</span> Required fields are marked <span
+class="required">*</span></p><p
+class="comment-form-comment"><label
+for="comment">Comment</label><textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" aria-required="true" required="required"></textarea></p><p
+class="comment-form-author"><label
+for="author">Name <span
+class="required">*</span></label> <input
+id="author" name="author" type="text" value="" size="30" maxlength="245" aria-required='true' required='required' /></p><p
+class="comment-form-email"><label
+for="email">Email <span
+class="required">*</span></label> <input
+id="email" name="email" type="email" value="" size="30" maxlength="100" aria-describedby="email-notes" aria-required='true' required='required' /></p><p
+class="comment-form-url"><label
+for="url">Website</label> <input
+id="url" name="url" type="url" value="" size="30" maxlength="200" /></p><p
+class="form-submit"><input
+name="submit" type="submit" id="submit" class="submit" value="Submit Comment" /> <input
+type='hidden' name='comment_post_ID' value='377' id='comment_post_ID' />
+<input
+type='hidden' name='comment_parent' id='comment_parent' value='0' /></p><p
+style="display: none;"><input
+type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="1552f79c02" /></p><p
+style="display: none;"><input
+type="hidden" id="ak_js" name="ak_js" value="68"/></p></form></div></div>
+</main></div></div><footer
+id="colophon" class="site-footer" role="contentinfo"><div
+class="inner-block"><div
+class="footer-text-container"><div
+class="footer-text"><p>© Copyright 2018 Jason Leow</p></div><ul
+class="footer-social-links"><li
+class="facebook">
+<a
+href="https://www.facebook.com/pleasegetjason" title="Facebook">
+<span
+class="genericon genericon-facebook"></span>
+</a></li><li
+class="twitter">
+<a
+href="https://twitter.com/jasonleowsg" title="Twitter">
+<span
+class="genericon genericon-twitter"></span>
+</a></li><li
+class="linkedin">
+<a
+href="https://sg.linkedin.com/pub/jason-leow/2a/b39/9a4" title="LinkedIn">
+<span
+class="genericon genericon-linkedin"></span>
+</a></li><li
+class="instagram">
+<a
+href="http://instagram.com/jasonleow" title="Instagram">
+<span
+class="genericon genericon-instagram"></span>
+</a></li><li
+class="email">
+<a
+href="mailto:&#106;as&#111;n&#064;&#106;as&#111;&#110;l&#101;o&#119;.&#115;g" title="Email">
+<span
+class="genericon genericon-mail"></span>
+</a></li><li
+class="rss">
+<a
+href="https://t.me/jasonleowsg" title="RSS">
+<span
+class="genericon genericon-feed"></span>
+</a></li></ul></div></div>
+</footer></div><div
+style="display:none"></div> <script type="text/javascript" src="https://jasonleow.sg/wp-content/cache/minify/5b374.js"></script> <script type='text/javascript' src='https://s0.wp.com/wp-content/js/devicepx-jetpack.js?ver=201843'></script> <script type='text/javascript'>/*  */
+var sta_settings = {"distance":"50","speed":"500","exceptions":""};
+/*  */</script> <script type="text/javascript" src="https://jasonleow.sg/wp-content/cache/minify/91e72.js"></script> <script type='text/javascript' src='https://secure.gravatar.com/js/gprofiles.js?ver=2018Octaa'></script> <script type='text/javascript'>/*  */
+var WPGroHo = {"my_hash":""};
+/*  */</script> <script type="text/javascript" src="https://jasonleow.sg/wp-content/cache/minify/a5344.js"></script> <script type='text/javascript'>/*  */
+var blinkFitVids = {"selectors":"iframe[src*='www.viddler.com'],iframe[src*='money.cnn.com'],iframe[src*='www.educreations.com'],iframe[src*='\/\/blip.tv'],iframe[src*='\/\/embed.ted.com'],iframe[src*='\/\/www.hulu.com']"};
+/*  */</script> <script type="text/javascript" src="https://jasonleow.sg/wp-content/cache/minify/20acf.js"></script> <script type='text/javascript' src='https://stats.wp.com/e-201843.js' async defer></script> <script type='text/javascript'>_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:4.4.2',blog:'82564458',post:'377',tz:'8',srv:'jasonleow.sg'} ]);
+	_stq.push([ 'clickTrackerInit', '82564458', '377' ]);</script> </body></html>
